@@ -1,0 +1,183 @@
+*dialogue default
+{
+	*25 f6_painsml
+	*26 f6_painmed
+	*27 f6_death
+	*28 f6_death
+	*29 f6_death
+	*30 f6_death
+	*40 f6_atksml01
+	*41 f6_atkmed01
+	*61 
+	*62 
+	*63 
+	*66 
+	*100 
+	{
+		*TEXT "Zhe Bu Jiu Shi Wo Men Zao Xie Shi Hou Dai Bu De Na Ge Ren Ma £¿"
+		*SOUND csl01_02
+	}
+	*101 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*102 
+	{
+		*TEXT "Ni Zhi Wang Wo Men Xiang Xin Zhe Xie Ren Dui Wo Men Zhong Cheng £¬"
+		*SOUND 
+	}
+	*103 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*104 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*105 
+	{
+		*TEXT "Ke Ta Men Shen Zhi Lian Qian De Shui Dou Bu Ken Jiao £¿"
+		*SOUND 
+	}
+	*106 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*107 
+	{
+		*TEXT "Gun Kai £¡"
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "Ni ¡­¡­ Chun Huo £¡"
+		*SOUND ls15_02
+	}
+	*109 
+	{
+		*TEXT "Fang Wo Zou £¡"
+		*SOUND ls15_03
+	}
+	*110 
+	{
+		*TEXT "Ni Xiu Xiang"
+		*SOUND ls15_04
+	}
+	*111 
+	{
+		*TEXT "De Cheng £¡"
+		*SOUND 
+	}
+	*112 
+	{
+		*TEXT "You Mei You Ren Gao Su Guo Ni"
+		*SOUND ls15_05
+	}
+	*113 
+	{
+		*TEXT "Ni Xu Yao Geng Hao De Hua Zhuang £¿"
+		*SOUND 
+	}
+	*114 
+	{
+		*TEXT "Po Fu £¡"
+		*SOUND ls15_06
+	}
+	*115 
+	{
+		*TEXT "Shi De ¡£"
+		*SOUND gen_jasindra001
+	}
+	*116 
+	{
+		*TEXT "Bu ¡£"
+		*SOUND gen_jasindra002
+	}
+	*117 
+	{
+		*TEXT "N ¡£"
+		*SOUND gen_jasindra003
+	}
+	*118 
+	{
+		*TEXT "Wo De Rong Xing ¡£"
+		*SOUND gen_jasindra004
+	}
+	*119 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SOUND gen_jasindra005
+	}
+	*120 
+	{
+		*TEXT "Dui ¡£"
+		*SOUND gen_jasindra006
+	}
+	*121 
+	{
+		*TEXT "Gai Si De £¡"
+		*SOUND ge_jasindra119
+	}
+	*122 
+	{
+		*TEXT "Zhu Shou £¡"
+		*SOUND ge_jasindra120
+	}
+	*123 
+	{
+		*TEXT "Wo Shi Shui £¿ Wo Shi Shui £¿"
+		*SOUND ge_jasindra121
+	}
+	*124 
+	{
+		*TEXT "Wo Shi Wei Yi De Ji Cheng Ren £¡"
+		*SOUND 
+	}
+	*125 
+	{
+		*TEXT "Heng £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_jasindra122
+	}
+	*126 
+	{
+		*TEXT "Ni Bu Neng Zhe Me Zuo £¡"
+		*SOUND ge_jasindra126
+	}
+	*127 
+	{
+		*TEXT "Ni Bu Neng Zhe Yang Dui Wo £¡"
+		*SOUND ge_jasindra127
+	}
+	*128 
+	{
+		*TEXT "Ni Zhi Bu Zhi Dao"
+		*SUBTITLEDURATION 3
+		*SOUND ge_jasindra128
+	}
+	*129 
+	{
+		*TEXT "Wo Shi Shui £¿"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*130 
+	{
+		*TEXT "Wo Shi Gong Zhu £¡"
+		*SOUND ge_jasindra129
+	}
+	*131 
+	{
+		*TEXT "Deng Ta Men Ting Shuo Le"
+		*SOUND ge_jasindra130
+	}
+	*132 
+	{
+		*TEXT "Zhe Shi Yi Hou £¬ Ni Jiu Deng Zhe Qiao Ba £¡"
+		*SOUND 
+	}
+}

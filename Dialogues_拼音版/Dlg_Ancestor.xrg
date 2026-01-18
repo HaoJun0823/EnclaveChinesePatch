@@ -1,0 +1,141 @@
+*dialogue default
+{
+	*25 m4_painsml
+	*26 m4_painmed
+	*27 m4_death
+	*28 m4_death
+	*29 m4_death
+	*30 m4_death
+	*40 m4_atksml01
+	*41 m4_atkmed01
+	*61 anc_aidete
+	*62 anc_aispot
+	*63 anc_aichar
+	*66 anc_aisurp
+	*100 
+	{
+		*TEXT "Dian Xia £¬ Ta Men Lai Le ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_06
+	}
+	*101 
+	{
+		*TEXT "Zhan Zhu £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_08
+	}
+	*102 
+	{
+		*TEXT "Ting Xia £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_09
+	}
+	*103 
+	{
+		*TEXT "Ji Xu Qian Jin ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_10
+	}
+	*104 
+	{
+		*TEXT "Huan Ying Lai Dao Mei Ke Lun"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_11
+	}
+	*105 
+	{
+		*TEXT "Ren He Ren Dou Bu Ke Yi Zai"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_12
+	}
+	*106 
+	{
+		*TEXT "Xian Zai Jing Ji Chang Zheng Ming Zi Ji Zhi Qian Jian Wo Men De Shou Ling £¡"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "Mo Sheng Ren £¬ Jin Ru Jing Ji Chang £¬ Zheng Ming Ni De Jia Zhi Ba £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_14
+	}
+	*110 
+	{
+		*TEXT "Ni Yi Jing Zheng Ming Liao Ni De Jia Zhi £¬ Mo Sheng Ren ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_15
+	}
+	*111 
+	{
+		*TEXT "Wo Men De Shou Ling Hui Yu Ni Jiao Tan ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*112 
+	{
+		*TEXT "Ni Zhan Dou De Fei Chang Ying Yong £¬ A Lai Ke Tuo Xian Zai Yao Jian Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_16
+	}
+	*114 
+	{
+		*TEXT "Ni Xu Yao Qi Ti Rong Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_17
+	}
+	*115 
+	{
+		*TEXT "Ni Xu Yao Gei Rong Qi Jia Man Qi Ti Ran Liao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_18
+	}
+	*117 
+	{
+		*TEXT "Yi Qie Rong Yao Gui Yu Di Guo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_ancestor119
+	}
+	*118 
+	{
+		*TEXT "Shi De ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor001
+	}
+	*119 
+	{
+		*TEXT "Bu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor002
+	}
+	*120 
+	{
+		*TEXT "N ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor003
+	}
+	*121 
+	{
+		*TEXT "Bu Ke Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor004
+	}
+	*122 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor005
+	}
+	*123 
+	{
+		*TEXT "Dui ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor006
+	}
+	*124 
+	{
+		*TEXT "Bie Rang Ta Men Pao Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor007
+	}
+}

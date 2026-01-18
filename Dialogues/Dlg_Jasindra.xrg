@@ -1,0 +1,183 @@
+*dialogue default
+{
+	*25 f6_painsml
+	*26 f6_painmed
+	*27 f6_death
+	*28 f6_death
+	*29 f6_death
+	*30 f6_death
+	*40 f6_atksml01
+	*41 f6_atkmed01
+	*61 
+	*62 
+	*63 
+	*66 
+	*100 
+	{
+		*TEXT "这不就是我们早些时候逮捕的那个人吗？"
+		*SOUND csl01_02
+	}
+	*101 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*102 
+	{
+		*TEXT "你指望我们相信这些人对我们忠诚，"
+		*SOUND 
+	}
+	*103 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*104 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*105 
+	{
+		*TEXT "可他们甚至连欠的税都不肯交？"
+		*SOUND 
+	}
+	*106 
+	{
+		*TEXT ""
+		*SOUND 
+	}
+	*107 
+	{
+		*TEXT "滚开！"
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "你……蠢货！"
+		*SOUND ls15_02
+	}
+	*109 
+	{
+		*TEXT "放我走！"
+		*SOUND ls15_03
+	}
+	*110 
+	{
+		*TEXT "你休想"
+		*SOUND ls15_04
+	}
+	*111 
+	{
+		*TEXT "得逞！"
+		*SOUND 
+	}
+	*112 
+	{
+		*TEXT "有没有人告诉过你"
+		*SOUND ls15_05
+	}
+	*113 
+	{
+		*TEXT "你需要更好的化妆？"
+		*SOUND 
+	}
+	*114 
+	{
+		*TEXT "泼妇！"
+		*SOUND ls15_06
+	}
+	*115 
+	{
+		*TEXT "是的。"
+		*SOUND gen_jasindra001
+	}
+	*116 
+	{
+		*TEXT "不。"
+		*SOUND gen_jasindra002
+	}
+	*117 
+	{
+		*TEXT "嗯。"
+		*SOUND gen_jasindra003
+	}
+	*118 
+	{
+		*TEXT "我的荣幸。"
+		*SOUND gen_jasindra004
+	}
+	*119 
+	{
+		*TEXT "很好。"
+		*SOUND gen_jasindra005
+	}
+	*120 
+	{
+		*TEXT "对。"
+		*SOUND gen_jasindra006
+	}
+	*121 
+	{
+		*TEXT "该死的！"
+		*SOUND ge_jasindra119
+	}
+	*122 
+	{
+		*TEXT "住手！"
+		*SOUND ge_jasindra120
+	}
+	*123 
+	{
+		*TEXT "我是谁？我是谁？"
+		*SOUND ge_jasindra121
+	}
+	*124 
+	{
+		*TEXT "我是唯一的继承人！"
+		*SOUND 
+	}
+	*125 
+	{
+		*TEXT "哼！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_jasindra122
+	}
+	*126 
+	{
+		*TEXT "你不能这么做！"
+		*SOUND ge_jasindra126
+	}
+	*127 
+	{
+		*TEXT "你不能这样对我！"
+		*SOUND ge_jasindra127
+	}
+	*128 
+	{
+		*TEXT "你知不知道"
+		*SUBTITLEDURATION 3
+		*SOUND ge_jasindra128
+	}
+	*129 
+	{
+		*TEXT "我是谁？"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*130 
+	{
+		*TEXT "我是公主！"
+		*SOUND ge_jasindra129
+	}
+	*131 
+	{
+		*TEXT "等他们听说了"
+		*SOUND ge_jasindra130
+	}
+	*132 
+	{
+		*TEXT "这事以后，你就等着瞧吧！"
+		*SOUND 
+	}
+}

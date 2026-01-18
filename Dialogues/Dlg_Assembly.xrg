@@ -1,0 +1,54 @@
+*dialogue default
+{
+	*25 amb_painsml
+	*26 amb_painmed
+	*27 amb_death
+	*28 amb_death
+	*29 amb_death
+	*30 amb_death
+	*40 amb_atksml01
+	*41 amb_atkmed01
+	*61 amb_aidete
+	*62 amb_aispot
+	*100 
+	{
+		*TEXT "我们的事业曾有人冒生命危险，尊者"
+		*SUBTITLEDURATION 3
+		*SOUND amb_ass11
+		*FLAGS 2
+	}
+	*101 
+	{
+		*TEXT "存在着强烈的救赎意愿。应该给予第二次机会。"
+		*SUBTITLEDURATION 5
+		*SOUND amb_ass10
+		*FLAGS 2
+	}
+	*102 
+	{
+		*TEXT ""
+		*SUBTITLEDURATION 3
+		*SOUND amb_ass09
+	}
+	*103 
+	{
+		*TEXT "我们必须保护塞勒海姆。"
+		*SUBTITLEDURATION 3
+		*SOUND amb_ass06
+		*FLAGS 2
+	}
+	*104 
+	{
+		*TEXT "一切荣耀归于女王陛下！"
+		*SUBTITLEDURATION 3
+		*SOUND amb_ass05
+		*FLAGS 2
+	}
+	*105 
+	{
+		*TEXT "我们与我们的尊者领袖并肩而立。"
+		*SUBTITLEDURATION 3
+		*SOUND amb_ass11
+		*FLAGS 2
+	}
+}

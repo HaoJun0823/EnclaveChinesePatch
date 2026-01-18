@@ -1,0 +1,156 @@
+*dialogue default
+{
+	*20 			// Sats_ground
+	*22 land_grounde		// land 1
+	*23 land_grounde		// land 2
+	*24 land_grounde		// land 3
+	*25 vat_painsml			// Pain 0
+	*26 vat_painsml			// Pain 1
+	*27 vat_death			// Death standard
+	*28 vat_death			// Death fall
+	*29 vat_death			// Death gib
+	*30 vat_death			// Death fire
+	*31 ft_grounde			// Footstep medium
+	*32 ft_grounde			// Footstep hard
+	*33 ft_grounde			// Footstep drag
+	*40 vat_atksml01		// Melee charge 1
+	*41 vat_atksml01		// Melee charge 2
+	*42 mel_magic02			// Sword swish
+	*43 mel_magic02			// Axe swish
+	*44 mel_magic02			// Hammer swish
+	*45 mel_magic02			// Dagger swish
+	*60 vat_roar01
+	*61 vat_roar02
+	
+	*70 vat_roar05
+	*71 vat_roar06
+	
+	*80 dem_expl19c	// Bodyfall
+	*81 du_special02	// Super attack 1
+	*100 
+	{
+		*TEXT "Zheng Zha Shi Tu Lao De £¬ Fan Ren £¡"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech01
+		*FLAGS 2
+	}
+	*101 
+	{
+		*TEXT "Hen Kuai £¬ Wo De Da Jun Jiang Zai Ci Jue Qi £¬"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech02
+		*FLAGS 2
+	}
+	*102 
+	{
+		*TEXT "Wo Jiang Xi Gan Ni Men Na Pian Zhen Gui Xiao Tu Di Shang De Mo Fa £¡"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech05
+		*FLAGS 2
+	}
+	*103 
+	{
+		*TEXT "Hen Hao £¡ Ni De Zhe Mo Jiang Dai Gei Wo Ju Da De Yu Yue ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech06
+		*FLAGS 2
+	}
+	*105 
+	{
+		*TEXT "Shi Jian Bu Duo Le ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech07
+		*FLAGS 2
+	}
+	*106 
+	{
+		*TEXT "Wo Jiang Ci Yu Ni Chao Hu Xiang Xiang De Qiang Da Li Liang ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech05
+		*FLAGS 2
+	}
+	*107 
+	{
+		*TEXT "Qu Wu Er - An Nong Dao Zhao Dao Mo De Sa ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech01
+		*FLAGS 2
+	}
+	*108 
+	{
+		*TEXT "Bu Yao ¡­¡­ Shi Bai ¡­¡­ Yu Wo ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech06
+		*FLAGS 2
+	}
+	*109 
+	{
+		*TEXT "Wo Xu Yao ¡­¡­ Zi You ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech08
+		*FLAGS 2
+	}
+	*110 
+	{
+		*TEXT "Rang Wo Cong Mo De Sa De Shu Fu Zhong Jie Tuo Chu Lai £¬ Fan Ren £¡"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech02
+		*FLAGS 2
+	}
+	*112 
+	{
+		*TEXT "Zhong Yu ¡­¡­ Wo Zi You Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech06
+		*FLAGS 2
+	}
+	*113 
+	{
+		*TEXT "Jiu Zai Wo Men Shuo Hua De Shi Hou £¬ Wo De Da Jun Zheng Zai Chuan Yue Lie Xi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech05
+		*FLAGS 2
+	}
+	*114 
+	{
+		*TEXT "Zhe Chang Zhan Dou Jiang Shi Jue Ding Xing De £¬ Er Qie Bu Hui You Ren He Lian Min ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech02
+		*FLAGS 2
+	}
+	*115 
+	{
+		*TEXT "Ta Men Tu Di Shang De Mo Fa Jiang Shu Yu Wo £¬"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech08
+		*FLAGS 2
+	}
+	*116 
+	{
+		*TEXT "Ta Men Mei Yi Ge Ren Dou Jiang Cheng Wei Wo De Nu Li ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech01
+		*FLAGS 2
+	}
+	*118 
+	{
+		*TEXT "Xian Zai £¬ Zhao Dao Jin Ru Sai Lei Hai Mu Cheng Bao De Fang Fa ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech03
+		*FLAGS 2
+	}
+	*119 
+	{
+		*TEXT "Gan Diao Jing Ling Nv Wang ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech06
+		*FLAGS 2
+	}
+	*120 
+	{
+		*TEXT "Mei You Le Ling Xiu £¬ Fei Di Jiang Shi Qu Zhan Dou De Yi Zhi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND vat_speech02
+		*FLAGS 2
+	}
+}

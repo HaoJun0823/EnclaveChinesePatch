@@ -1,0 +1,35 @@
+void main()
+{
+	Log("-------------------------------------------------------------------");
+	Log("Compiling Clairvaux font file...");
+
+	//Read the CFG for the font.
+	XFC_ReadFontScriptWin32("Clairvaux.cfg");
+
+	//Create the compiled XFC.
+	int OutputXTC = DFile_Create("Clairvaux.xfc");
+	XFC_WriteFont(OutputXTC, 0);
+	DFile_Close(OutputXTC);
+	
+	Log("-------------------------------------------------------------------");
+	Log("Compiling MiniFont2 font file...");
+
+	//Read the CFG for the font.
+	XFC_ReadFontScriptWin32("MiniFont2.cfg");
+
+	//Create the compiled XFC.
+	int OutputXTC2 = DFile_Create("MiniFont2.XFC");
+	XFC_WriteFont(OutputXTC2, 0);
+	DFile_Close(OutputXTC2);
+	
+	Log("-------------------------------------------------------------------");
+	Log("Compiling Numbers font file...");
+
+	//Read the CFG for the font.
+	XFC_ReadFontScriptWin32("Numbers.cfg");
+
+	//Create the compiled XFC.
+	int OutputXTC3 = DFile_Create("Numbers.xfc");
+	XFC_WriteFont(OutputXTC3, 0);
+	DFile_Close(OutputXTC3);	
+}

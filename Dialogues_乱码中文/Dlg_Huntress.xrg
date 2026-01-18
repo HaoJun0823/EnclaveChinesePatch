@@ -1,0 +1,370 @@
+*dialogue default
+{
+	*25 f1_painsml
+	*26 f1_painmed
+	*27 f1_death
+	*28 f1_death
+	*29 f1_death
+	*30 f1_death
+	*40 f1_atksml01
+	*41 f1_atkmed01
+	*66 hun_aisurp
+	*100 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress021
+	}
+	*101 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress022
+	}
+	*102 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress014
+	}
+	*103 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress016
+	}
+	*104 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress046
+	}
+	*105 
+	{
+		*TEXT "谢谢你！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress075
+	}
+	*106 
+	{
+		*TEXT "我们应该联手！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress317
+	}
+	*107 
+	{
+		*TEXT "我们应该待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress318
+	}
+	*108 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress319
+	}
+	*109 
+	{
+		*TEXT "保持警惕。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress323
+	}
+	*110 
+	{
+		*TEXT "为什么是我……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress324
+	}
+	*111 
+	{
+		*TEXT "跟我来！我知道另一条路。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress329
+	}
+	*112 
+	{
+		*TEXT "我会回来的，在这里等我。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress008
+	}
+	*113 
+	{
+		*TEXT "请在这里等候。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress009
+	}
+	*114 
+	{
+		*TEXT "我会在这里等你回来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress011
+	}
+	*115 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress014
+	}
+	*116 
+	{
+		*TEXT "我会跟着你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress015
+	}
+	*117 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress016
+	}
+	*118 
+	{
+		*TEXT "我想我能帮到你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress026
+	}
+	*119 
+	{
+		*TEXT "嘿，你，这边！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress044
+	}
+	*120 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress046
+	}
+	*121 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress050
+	}
+	*122 
+	{
+		*TEXT "他们在攻击我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress051
+	}
+	*123 
+	{
+		*TEXT "有陷阱！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress056
+	}
+	*125 
+	{
+		*TEXT "开火！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress061
+	}
+	*126 
+	{
+		*TEXT "冲啊！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress062
+	}
+	*127 
+	{
+		*TEXT "干得漂亮！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress071
+	}
+	*128 
+	{
+		*TEXT "干得好！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress072
+	}
+	*129 
+	{
+		*TEXT "太好了，我欠你个人情"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress073
+	}
+	*130 
+	{
+		*TEXT "谢谢你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress075
+	}
+	*131 
+	{
+		*TEXT "我们必须抓紧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress081
+	}
+	*132 
+	{
+		*TEXT "我是女猎手，我的箭法精准。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress119
+	}
+	*134 
+	{
+		*TEXT "哈！逮到你了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress120
+	}
+	*136 
+	{
+		*TEXT "我很棒，真的棒！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress122
+	}
+	*140 
+	{
+		*TEXT "这就是为什么你需要我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress123
+	}
+	*141 
+	{
+		*TEXT "该死，我真厉害！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress124
+	}
+	*142 
+	{
+		*TEXT "天啊，我热爱我的工作！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress125
+	}
+	*143 
+	{
+		*TEXT "哦耶！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress126
+	}
+	*146 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress301
+	}
+	*147 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress302
+	}
+	*148 
+	{
+		*TEXT "嗯……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress303
+	}
+	*149 
+	{
+		*TEXT "不客气"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress304
+	}
+	*150 
+	{
+		*TEXT "我的荣幸"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress305
+	}
+	*151 
+	{
+		*TEXT "就剩几个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress306
+	}
+	*152 
+	{
+		*TEXT "就剩一个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress307
+	}
+	*153 
+	{
+		*TEXT "我需要更多箭！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress308
+	}
+	*154 
+	{
+		*TEXT "我需要治疗药水！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress309
+	}
+	*155 
+	{
+		*TEXT "我需要法力！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress310
+	}
+	*156 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress311
+	}
+	*157 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress312
+	}
+	*158 
+	{
+		*TEXT "小心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress313
+	}
+	*159 
+	{
+		*TEXT "当心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress314
+	}
+	*160 
+	{
+		*TEXT "看着点！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress315
+	}
+	*161 
+	{
+		*TEXT "住手！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress316
+	}
+	*162 
+	{
+		*TEXT "我是女猎手，你或许"
+		*SUBTITLEDURATION 3
+		*SOUND ge_huntress400
+	}
+	*163 
+	{
+		*TEXT "需要我的技能。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*164 
+	{
+		*TEXT "我可能需要你帮忙。"
+		*SUBTITLEDURATION 4
+		*SOUND ls02_01
+	}
+	*165 
+	{
+		*TEXT "庭院里挤满了敌人！"
+		*SUBTITLEDURATION 3
+	}
+	*166 
+	{
+		*TEXT "干得好。现在我们必须拯救前哨站。"
+		*SUBTITLEDURATION 4
+		*SOUND ls02_02
+	}
+	*167 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+	}
+}

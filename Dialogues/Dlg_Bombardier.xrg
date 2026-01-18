@@ -1,0 +1,71 @@
+*dialogue default
+{
+	*25 orc_painsml
+	*26 orc_painmed
+	*27 orc_death
+	*28 orc_death
+	*29 orc_death
+	*30 orc_death
+	*40 orc_atksml01
+	*41 orc_atkmed01
+	*60 orc_aiidle
+	*61 orc_aidete
+	*62 orc_aispot
+	*63 orc_aichar
+	*64 orc_aitaunt1
+	*65 orc_aitaunt3
+	*66 orc_aisurp
+	*100 
+	{
+		*TEXT "开火！"
+		*SOUND orc_special28a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*101 
+	{
+		*TEXT "攻击！"
+		*SOUND orc_special29a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*102 
+	{
+		*TEXT "找掩护！"
+		*SOUND orc_special10a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*103 
+	{
+		*TEXT "跟我来，她在里面！！"
+		*SUBTITLEDURATION 3
+		*SOUND orc_special06a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*104 
+	{
+		*TEXT "掩护我们，炸掉大门！"
+		*SUBTITLEDURATION 3
+		*SOUND orc_special28a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*105 
+	{
+		*TEXT "问候。我们现在开杀！"
+		*SUBTITLEDURATION 3
+		*SOUND orc_special22a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*106 
+	{
+		*TEXT "你杀得好。我们好团队！"
+		*SUBTITLEDURATION 3
+		*SOUND orc_special14a
+		*COLOR 0xfefefe
+		*FLAGS 2	
+	}
+}

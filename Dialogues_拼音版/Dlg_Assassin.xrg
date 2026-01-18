@@ -1,0 +1,410 @@
+*dialogue default
+{
+	*25 f3_painsml
+	*26 f3_painmed
+	*27 f3_death
+	*28 f3_death
+	*29 f3_death
+	*30 f3_death
+	*40 f3_atksml01
+	*41 f3_atkmed01
+	*61 ass_aidete
+	*62 ass_aispot
+	*63 ass_aichar
+	*66 ass_aisurp
+	*100 
+	{
+		*TEXT "Suo Yi £¬ Wo Kan Ta Men Lian Zi Ji Ren Ye Guan Ya ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls01_01
+	}
+	*102 
+	{
+		*TEXT "Ni Ting Dao De Sheng Yin £¬"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*104 
+	{
+		*TEXT "Shi Ni Si Wang De Sheng Yin ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*106 
+	{
+		*TEXT "Shi Wo Wai Yu Zhe Tong Bao Men Lei Ming Ban De Gun Gun Dong Di Sheng ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "Shi De Lei Ge ' A Ta Er"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*109 
+	{
+		*TEXT "Tu Sha Ni Men Tong Lei De Sheng Yin £¬"
+		*SOUND 
+	}
+	*111 
+	{
+		*TEXT "Yi Ji Pan Deng Zhe Zuo Ruo Xiao Bao Lei Cheng Qiang De Sheng Yin ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*113 
+	{
+		*TEXT "Ta Men Shi Lai Jie Jiu Wo De ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ls01_03
+	}
+	*115 
+	{
+		*TEXT "Ru Guo Ta Men Mei Neng Xian Zhua Zhu Ni £¬"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*117 
+	{
+		*TEXT "Wo Hui Qin Shou Ba Ni Si Sui £¬ Yong Wo De ¡ª¡ª"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*119 
+	{
+		*TEXT "Wo Hui Hui Lai De £¬ Zai Zhe Li Deng Wo ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin008
+	}
+	*121 
+	{
+		*TEXT "Zai Zhe Li Deng Zhe ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin009
+	}
+	*122 
+	{
+		*TEXT "Wo Hui Zai Zhe Li Deng Ni Hui Lai ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin011
+	}
+	*124 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin014
+	}
+	*125 
+	{
+		*TEXT "Wo Hui Gen Zhe Ni £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin015
+	}
+	*126 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin016
+	}
+	*127 
+	{
+		*TEXT "Jiu Ming £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin021
+	}
+	*128 
+	{
+		*TEXT "Jiu Jiu Wo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin022
+	}
+	*129 
+	{
+		*TEXT "Wo Xiang Wo Neng Bang Dao Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin026
+	}
+	*130 
+	{
+		*TEXT "Hei £¬ Ni £¬ Zhe Bian £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin044
+	}
+	*131 
+	{
+		*TEXT "Wo Zai Zhe Er £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin046
+	}
+	*132 
+	{
+		*TEXT "Wo Men Zao Dao Gong Ji Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin050
+	}
+	*133 
+	{
+		*TEXT "Ta Men Zai Gong Ji Wo Men £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin051
+	}
+	*134 
+	{
+		*TEXT "You Xian Jing £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin056
+	}
+	*135 
+	{
+		*TEXT "Shi Mai Fu £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin056b
+	}
+	*136 
+	{
+		*TEXT "Kai Huo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin061
+	}
+	*137 
+	{
+		*TEXT "Chong A £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin062
+	}
+	*138 
+	{
+		*TEXT "Gan De Piao Liang ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin071
+	}
+	*139 
+	{
+		*TEXT "Gan De Hao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin072
+	}
+	*140 
+	{
+		*TEXT "Tai Hao Le £¬ Wo Qian Ni Ge Ren Qing ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin073
+	}
+	*142 
+	{
+		*TEXT "Xie Xie Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin075
+	}
+	*143 
+	{
+		*TEXT "Wo Men Bi Xu Zhua Jin £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin081
+	}
+	*144 
+	{
+		*TEXT "Wo De Dao Ren Feng Li £¬ Si Wang Xun Ji ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin119
+	}
+	*146 
+	{
+		*TEXT "Jin Tian Ni Xiang Rang Shui Si £¿"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin120
+	}
+	*148 
+	{
+		*TEXT "Wo Shi Yi Ming Ci Ke £¬ Zui Hao De Na Zhong ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*150 
+	{
+		*TEXT "Wo Wei Zhe Jian Wu Qi Zhun Bei Le Duo Ri ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin121
+	}
+	*152 
+	{
+		*TEXT "Wo Zheng Bian De Jiao Zao Bu An £¬ Wo Xiang Shi Yong Ta ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*154 
+	{
+		*TEXT "Zhe Li Mian You Shen Me Hao Chu Ma £¿"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin122
+	}
+	*156 
+	{
+		*TEXT "Wo Ji Neng Kuai Su £¬ Ye Neng Tong Ku Di Song Da Si Wang ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin123
+	}
+	*159 
+	{
+		*TEXT "Chang Chang Zhe Ge £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin124
+	}
+	*160 
+	{
+		*TEXT "Gan Shou Zhe Ge Ba £¬ Ni Zhe Hun Dan £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin125
+	}
+	*161 
+	{
+		*TEXT "Zhe Hui Gei Ni Ge Jiao Xun £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin126
+	}
+	*162 
+	{
+		*TEXT "Ni Zhao Bu Dao Geng Hao De Ren Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin127
+	}
+	*164 
+	{
+		*TEXT "Wo Shi Zui Qiang De £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin128
+	}
+	*165 
+	{
+		*TEXT "Shi De ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin301
+	}
+	*166 
+	{
+		*TEXT "Bu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin302
+	}
+	*167 
+	{
+		*TEXT "N ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin303
+	}
+	*168 
+	{
+		*TEXT "Bu Ke Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin304
+	}
+	*169 
+	{
+		*TEXT "Wo De Rong Xing ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin305
+	}
+	*170 
+	{
+		*TEXT "Jiu Sheng Ji Ge Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin306
+	}
+	*171 
+	{
+		*TEXT "Jiu Sheng Yi Ge Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin307
+	}
+	*172 
+	{
+		*TEXT "Wo Xu Yao Geng Duo Jian £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin308
+	}
+	*173 
+	{
+		*TEXT "Wo Xu Yao Zhi Liao Yao Shui £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin309
+	}
+	*174 
+	{
+		*TEXT "Wo Xu Yao Fa Li ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin310
+	}
+	*175 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin311
+	}
+	*176 
+	{
+		*TEXT "Dui ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin312
+	}
+	*177 
+	{
+		*TEXT "Hei £¬ Xiao Xin £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin313
+	}
+	*178 
+	{
+		*TEXT "Dang Xin £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin314
+	}
+	*179 
+	{
+		*TEXT "Kan Zhe Dian £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin315
+	}
+	*180 
+	{
+		*TEXT "Ting Xia £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin316
+	}
+	*181 
+	{
+		*TEXT "Wo Men Ying Gai Lian Shou ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin317
+	}
+	*182 
+	{
+		*TEXT "Wo Men Ying Gai Dai Zai Yi Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin318
+	}
+	*183 
+	{
+		*TEXT "You Yi Wei Yong Gan De Zhan Shi £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin319
+	}
+	*184 
+	{
+		*TEXT "Wo Shi Yi Ming Ci Ke £¬ Wo De Ji Neng Ke Neng Hen You Yong ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin320
+	}
+	*186 
+	{
+		*TEXT "Wo Gan Jue Dao You Shen Me Dong Xi ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin323
+	}
+	*187 
+	{
+		*TEXT "Gen Wo Lai £¡ Wo Zhi Dao Ling Yi Tiao Lu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin329
+	}
+}

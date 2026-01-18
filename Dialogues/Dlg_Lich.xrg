@@ -1,0 +1,300 @@
+*dialogue default
+{
+	*25 lich_painsml
+	*26 lich_painmed
+	*27 lich_death
+	*28 lich_death
+	*29 lich_death
+	*30 lich_death
+	*40 lich_atksml01
+	*41 lich_atkmed01
+	*60 lic_aiidle
+	*61 lic_aidete
+	*62 lic_aispot
+	*100 ge_lich010
+	{
+		*TEXT "你知道该怎么做，"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich010
+	}
+	*101 
+	{
+		*TEXT "我就在这里等你。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*102 
+	{
+		*TEXT "这里有些事情说不通。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich013
+	}
+	*103 
+	{
+		*TEXT "跟我来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich014
+	}
+	*104 
+	{
+		*TEXT "任何时候都要和我待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich019
+	}
+	*105 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich021
+	}
+	*106 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich022
+	}
+	*107 
+	{
+		*TEXT "将我从永恒的束缚中解放出来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich027
+	}
+	*108 
+	{
+		*TEXT "我在这儿。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich046
+	}
+	*109 
+	{
+		*TEXT "它在那儿。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich047
+	}
+	*110 
+	{
+		*TEXT "我们遭到攻击了。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich050
+	}
+	*111 
+	{
+		*TEXT "开火！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich061
+	}
+	*112 
+	{
+		*TEXT "谢谢你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich075
+	}
+	*113 
+	{
+		*TEXT "时间不多了。快来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich082
+	}
+	*114 
+	{
+		*TEXT "死吧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich094
+	}
+	*115 
+	{
+		*TEXT "是时候去死了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich094b
+	}
+	*116 
+	{
+		*TEXT "我的魔法很强大。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich120
+	}
+	*117 
+	{
+		*TEXT "我所希望的只是我最终的安息。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich121
+	}
+	*118 
+	{
+		*TEXT "让我们结束这一切吧，"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich122
+	}
+	*119 
+	{
+		*TEXT "我的灵魂正变得焦躁不安。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*120 
+	{
+		*TEXT "我的骨头终将"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich123
+	}
+	*121 
+	{
+		*TEXT "化为尘土，我的灵魂将"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*122 
+	{
+		*TEXT "回归它所属的地方。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*123 
+	{
+		*TEXT "祈求这一天早日到来。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*124 
+	{
+		*TEXT "冥界指引着我。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich124
+	}
+	*125 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich301
+	}
+	*126 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich302
+	}
+	*127 
+	{
+		*TEXT "嗯……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich303
+	}
+	*128 
+	{
+		*TEXT "不客气。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich304
+	}
+	*129 
+	{
+		*TEXT "我的荣幸。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich305
+	}
+	*130 
+	{
+		*TEXT "就剩几个了。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich306
+	}
+	*131 
+	{
+		*TEXT "就剩一个了。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich307
+	}
+	*132 
+	{
+		*TEXT "我需要治疗药水！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich309
+	}
+	*133 
+	{
+		*TEXT "我需要法力！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich310
+	}
+	*134 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich311
+	}
+	*135 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich312
+	}
+	*136 
+	{
+		*TEXT "嘿，小心。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich313
+	}
+	*137 
+	{
+		*TEXT "当心。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich314
+	}
+	*138 
+	{
+		*TEXT "看着点。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich315
+	}
+	*139 
+	{
+		*TEXT "停下。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich316
+	}
+	*140 
+	{
+		*TEXT "我们应该联手。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich317
+	}
+	*141 
+	{
+		*TEXT "我们应该待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich318
+	}
+	*142 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich319
+	}
+	*143 
+	{
+		*TEXT "保持警惕。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich323
+	}
+	*144 
+	{
+		*TEXT "为什么是我……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich324
+	}
+	*145 
+	{
+		*TEXT "跟我来，我知道另一条路。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich329
+	}
+	*146 
+	{
+		*TEXT "我是巫妖。我掌控着"
+		*SOUND ge_lich400
+	}
+	*147 
+	{
+		*TEXT "冥界的力量。"
+		*SOUND 
+	}
+}

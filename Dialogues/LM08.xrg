@@ -1,0 +1,12 @@
+*dialogue Default
+{
+	*1 
+	{
+		*TEXT "你捡起了一个气体罐"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+}

@@ -1,0 +1,37 @@
+*dialogue
+{
+	*1 // Reinforcement
+	{
+		*text "¼ÓÇ¿"
+		*subtitle_duration 4
+	}
+
+	*20 Sats_ground			// Sats_ground
+	*22 land_ground			// land 1
+	*23 land_hard01			// land 2
+	*24 land_hard02			// land 3
+	*25 					// Pain 0
+	*26 					// Pain 1
+	*27 					// Death standard
+	*28 					// Death fall
+	*29 					// Death gib
+	*30 					// Death fire
+	*31 fw_ground			// Footstep medium
+	*32 ft_ground			// Footstep hard
+	*33 fs_ground			// Footstep drag
+	*40 					// Melee charge 1
+	*41 					// Melee charge 2
+	*42 MEL_SWING02			// Sword swish
+	*43 MEL_SWING03			// Axe swish
+	*44 MEL_SWING04			// Hammer swish
+	*45 MEL_SWING05			// Dagger swish
+	*46 					// Special melee
+	*60					// Idle
+	*61					// Detect
+	*62					// Spot
+	*63					// Charge
+	*64					// Taunt
+	*65					// Afraid
+	*66					// Suprised
+	*80 imp_body08			// Bodyfall
+}

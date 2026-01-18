@@ -1,0 +1,555 @@
+*dialogue default
+{
+	*25 m2_painsml
+	*26 m2_painmed
+	*27 m2_death
+	*28 m2_death
+	*29 m2_death
+	*30 m2_death
+	*40 m2_atksml01
+	*41 m2_atkmed01
+	*61 mar_aidete
+	*62 mar_aispot
+	*63 mar_aichar
+	*66 mar_aisurp
+	*100 ls04_02
+	{
+		*TEXT "你必须找到我的财宝。我相信"
+		*SUBTITLEDURATION 3
+		*SOUND ls04_02
+	}
+	*102 
+	{
+		*TEXT "袭击者还把它们藏在里面的某个地方。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*105 
+	{
+		*TEXT "情况正变得越来越危急。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*107 
+	{
+		*TEXT "而塞勒海姆需要这笔金子！"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*110 
+	{
+		*TEXT "感谢你的帮助。这让我和塞勒海姆"
+		*SUBTITLEDURATION 3
+		*SOUND ls04_01
+	}
+	*112 
+	{
+		*TEXT "都免去了一大堆麻烦。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*115 
+	{
+		*TEXT "但还有一件更重要的事"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*117 
+	{
+		*TEXT "需要你去做。时间不多了。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*119 
+	{
+		*TEXT "我听说德雷格'阿塔尔正计划"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*121 
+	{
+		*TEXT "在一个月内对塞勒海姆发动一场大规模围攻。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*124 
+	{
+		*TEXT "我还未能将此消息"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*126 
+	{
+		*TEXT "传给女王。飞地的军队"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*128 
+	{
+		*TEXT "不是德雷格'阿塔尔的对手。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*130 
+	{
+		*TEXT "他们肯定会被摧毁和奴役。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*132 
+	{
+		*TEXT "但还有一线渺茫的希望。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*133 
+	{
+		*TEXT "有一个传说，关于生活在"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*135 
+	{
+		*TEXT "外域之外的人们。梅克伦的先祖。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*137 
+	{
+		*TEXT "传说中，在裂隙出现之前，"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*139 
+	{
+		*TEXT "他们曾是塞勒海姆值得信赖的朋友。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*141 
+	{
+		*TEXT "如果你能到达他们那里并说服他们"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*143 
+	{
+		*TEXT "提供援助，我们或许都能得救。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*146 
+	{
+		*TEXT "我需要一把钥匙来打开这个。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus001
+	}
+	*147 
+	{
+		*TEXT "它锁上了。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus002
+	}
+	*148 
+	{
+		*TEXT "我们必须打开这扇门！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus003
+	}
+	*149 
+	{
+		*TEXT "我会回来的。在这里等我。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus005
+	}
+	*151 
+	{
+		*TEXT "请在这里等候。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus006
+	}
+	*152 
+	{
+		*TEXT "你知道该怎么做。我就在这里等你。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus007
+	}
+	*154 
+	{
+		*TEXT "这里有点不对劲。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus009
+	}
+	*155 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus010
+	}
+	*156 
+	{
+		*TEXT "我会跟着你。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus011
+	}
+	*157 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus012
+	}
+	*158 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus014
+	}
+	*159 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus015
+	}
+	*160 
+	{
+		*TEXT "饶了我吧！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus018
+	}
+	*161 
+	{
+		*TEXT "我不想死！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus019
+	}
+	*162 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus021
+	}
+	*163 
+	{
+		*TEXT "在那儿！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus022
+	}
+	*164 
+	{
+		*TEXT "在那边！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus023
+	}
+	*165 
+	{
+		*TEXT "有陷阱！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus025
+	}
+	*166 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus024
+	}
+	*167 
+	{
+		*TEXT "是埋伏！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus025b
+	}
+	*168 
+	{
+		*TEXT "干得漂亮！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus026
+	}
+	*169 
+	{
+		*TEXT "谢谢你！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus029
+	}
+	*170 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus030
+	}
+	*171 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus031
+	}
+	*172 
+	{
+		*TEXT "嗯。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus032
+	}
+	*173 
+	{
+		*TEXT "不客气！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus033
+	}
+	*174 
+	{
+		*TEXT "我的荣幸！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus034
+	}
+	*175 
+	{
+		*TEXT "很好！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus035
+	}
+	*176 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus036
+	}
+	*177 
+	{
+		*TEXT "就像我刚才说的……"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus037
+	}
+	*178 
+	{
+		*TEXT "抓住他们！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus038
+	}
+	*179 
+	{
+		*TEXT "别让他们跑了！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus039
+	}
+	*180 
+	{
+		*TEXT "你永远抓不到我！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_marcus040
+	}
+	*183 
+	{
+		*TEXT "啊，你好啊！那么你就是我请求的援兵？"
+		*SOUND ls03_01
+		*SUBTITLEDURATION 3
+	}
+	*184 
+	{
+		*TEXT "我是马库斯，商人。"
+		*SOUND
+		*SUBTITLEDURATION 3
+	}
+	*185 
+	{
+		*TEXT "袭击者掠夺了我的商队，"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*186 
+	{
+		*TEXT "所以我需要你帮忙找到我的账本。"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*187 
+	{
+		*TEXT "我们还必须通过镇门。"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*188 
+	{
+		*TEXT "我们得找到一把钥匙。"
+		*SOUND
+		*SUBTITLEDURATION 3
+	}
+	*189 
+	{
+		*TEXT "快点，我们时间不多了！"
+		*SOUND
+		*SUBTITLEDURATION 3
+	}
+	*191 
+	{
+		*TEXT "袭击者掠夺了我的商队，并且"
+		*SOUND ls03_02
+		*SUBTITLEDURATION 3
+	}
+	*192 
+	{
+		*TEXT "把我的账本藏在村里的某个地方。"
+		*SOUND
+		*SUBTITLEDURATION 3
+	}
+	*193 
+	{
+		*TEXT "我需要你帮忙拿回来。"
+		*SOUND
+		*SUBTITLEDURATION 3
+	}
+	*195 
+	{
+		*TEXT "你需要找到一把钥匙！镇门锁住了。"
+		*SOUND ls03_03
+		*SUBTITLEDURATION 3
+	}
+	*197 
+	{
+		*TEXT "我需要我的账本！他们不可能跑远的。"
+		*SOUND ls03_04
+		*SUBTITLEDURATION 3
+	}
+	*199 
+	{
+		*TEXT "我们继续找钥匙吧。"
+		*SOUND ls03_05
+		*SUBTITLEDURATION 3
+	}
+	*201 
+	{
+		*TEXT "啊，太好了！"
+		*SOUND ls03_06
+		*SUBTITLEDURATION 3
+	}
+	*202 
+	{
+		*TEXT "塞勒海姆的经济全靠这本书了！"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*203 
+	{
+		*TEXT "我本不会弄丢它，都怪我那"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*204 
+	{
+		*TEXT "邋遢又无用的兄弟洛罗斯。"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*205 
+	{
+		*TEXT "现在，帮我到村子的另一边去！"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*207 
+	{
+		*TEXT "啊，钥匙。太好了！"
+		*SOUND ls03_07
+		*SUBTITLEDURATION 3
+	}
+	*209 
+	{
+		*TEXT "谢谢你的帮助，但他们"
+		*SOUND ls03_08
+		*SUBTITLEDURATION 3
+	}
+	*210 
+	{
+		*TEXT "从我商队抢走的货物不见了。"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*211 
+	{
+		*TEXT "它们可能藏在这附近"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*212 
+	{
+		*TEXT "的一座废弃神庙里。"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*213 
+	{
+		*TEXT "我需要你帮忙彻底摆脱这些外域者！"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*214 
+	{
+		*TEXT "跟我来，我会为你打开大门。"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*216 
+	{
+		*TEXT "看看那扇门后面。"
+		*SOUND ls03_09
+		*SUBTITLEDURATION 3
+	}
+	*217 
+	{
+		*TEXT "我想知道里面有什么。"
+		*SOUND ls03_10
+		*SUBTITLEDURATION 3
+	}
+	*218 
+	{
+		*TEXT "你会觉得一个人可以信任自己的兄弟，"
+		*SOUND ls03_11
+		*SUBTITLEDURATION 3
+	}
+	*219 
+	{
+		*TEXT "对吧！但洛罗斯不是。他总是有"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*220 
+	{
+		*TEXT "新花样来折磨人！"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*221 
+	{
+		*TEXT "哪怕只是折磨他们的耳朵！"
+		*SOUND 
+		*SUBTITLEDURATION 3
+	}
+	*223 
+	{
+		*TEXT "该死的，门锁上了！"
+		*SOUND ls03_12
+		*SUBTITLEDURATION 3
+	}
+	*224 
+	{
+		*TEXT "找别的路进去，我在这里等你。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*225 
+	{
+		*TEXT "你能先确认一下是否安全吗？我在这里等你。"
+		*SOUND ls03_13
+		*SUBTITLEDURATION 3
+	}
+	*226 
+	{
+		*TEXT "你能去前面侦察一下吗？我留在这里。"
+		*SOUND ls03_14
+		*SUBTITLEDURATION 3
+	}
+	*227 
+	{
+		*TEXT "小心，他们可能会伏击我们！"
+		*SOUND ls03_15
+		*SUBTITLEDURATION 3
+	}
+}

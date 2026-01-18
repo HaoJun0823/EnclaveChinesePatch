@@ -1,0 +1,442 @@
+*dialogue default
+{
+	*25 m6_painsml
+	*26 m6_painmed
+	*27 m6_death
+	*28 m6_death
+	*29 m6_death
+	*30 m6_death
+	*40 m6_atksml01
+	*41 m6_atkmed01
+	*60 wiz_aiidle
+	*61 wiz_aidete
+	*62 wiz_aispot
+	*63 wiz_aichar
+	*66 wiz_aisurp
+	*100 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard021
+	}
+	*101 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard022
+	}
+	*102 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard014
+	}
+	*103 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard016
+	}
+	*104 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard046
+	}
+	*105 
+	{
+		*TEXT "谢谢你！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard075
+	}
+	*106 
+	{
+		*TEXT "我们应该联手！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard317
+	}
+	*107 
+	{
+		*TEXT "我们应该待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard318
+	}
+	*108 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard319
+	}
+	*109 
+	{
+		*TEXT "保持警惕。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard323
+	}
+	*110 
+	{
+		*TEXT "为什么是我……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard324
+	}
+	*111 
+	{
+		*TEXT "跟我来！我知道另一条路。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard329
+	}
+	*112 
+	{
+		*TEXT "我会回来的，在这里等我。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard008
+	}
+	*113 
+	{
+		*TEXT "请在这里等候。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard009
+	}
+	*114 
+	{
+		*TEXT "我会在这里等你回来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard011
+	}
+	*115 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard014
+	}
+	*116 
+	{
+		*TEXT "我会跟着你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard015
+	}
+	*117 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard016
+	}
+	*119 
+	{
+		*TEXT "嘿，你，这边！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard044
+	}
+	*120 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard046
+	}
+	*121 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard050
+	}
+	*122 
+	{
+		*TEXT "他们在攻击我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard051
+	}
+	*123 
+	{
+		*TEXT "有陷阱！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard056
+	}
+	*125 
+	{
+		*TEXT "开火！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard061
+	}
+	*126 
+	{
+		*TEXT "冲啊！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard062
+	}
+	*127 
+	{
+		*TEXT "干得漂亮！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard071
+	}
+	*128 
+	{
+		*TEXT "干得好！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard072
+	}
+	*129 
+	{
+		*TEXT "太好了，我欠你个人情"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard073
+	}
+	*130 
+	{
+		*TEXT "谢谢你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard075
+	}
+	*131 
+	{
+		*TEXT "我们必须抓紧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard081
+	}
+	*132 
+	{
+		*TEXT "我本该做什么……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard119
+	}
+	*133 
+	{
+		*TEXT "啊，战斗！"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*134 
+	{
+		*TEXT "我被派来这里"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard120
+	}
+	*135 
+	{
+		*TEXT "帮助你。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*137 
+	{
+		*TEXT "为了塞勒海姆！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard122
+	}
+	*140 
+	{
+		*TEXT "让他们见识见识！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard123
+	}
+	*141 
+	{
+		*TEXT "感受我的怒火吧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard124
+	}
+	*142 
+	{
+		*TEXT "我找不到我的书了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard125
+	}
+	*143 
+	{
+		*TEXT "我需要我的法杖！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard126
+	}
+	*144 
+	{
+		*TEXT "没有法杖我无法"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*145 
+	{
+		*TEXT "战斗……"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*146 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard301
+	}
+	*147 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard302
+	}
+	*148 
+	{
+		*TEXT "嗯……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard303
+	}
+	*149 
+	{
+		*TEXT "不客气"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard304
+	}
+	*150 
+	{
+		*TEXT "我的荣幸"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard305
+	}
+	*151 
+	{
+		*TEXT "就剩几个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard306
+	}
+	*152 
+	{
+		*TEXT "就剩一个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard307
+	}
+	*155 
+	{
+		*TEXT "我需要法力！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard310
+	}
+	*156 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard311
+	}
+	*157 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard312
+	}
+	*158 
+	{
+		*TEXT "小心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard313
+	}
+	*159 
+	{
+		*TEXT "当心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard314
+	}
+	*160 
+	{
+		*TEXT "看着点！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard315
+	}
+	*161 
+	{
+		*TEXT "住手！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard316
+	}
+	*162 
+	{
+		*TEXT "我是巫师，或许"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard400
+	}
+	*163 
+	{
+		*TEXT "你需要一些魔法？"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*166 
+	{
+		*TEXT "畏惧我的怒火吧！"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard127
+	}
+	*167 
+	{
+		*TEXT "我呼唤元素之力！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard128
+	}
+	*169 
+	{
+		*TEXT "水啊，"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard129
+	}
+	*170 
+	{
+		*TEXT "我呼唤你！"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*171 
+	{
+		*TEXT "愿水拥抱你！"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard130
+	}
+	*172 
+	{
+		*TEXT "火焰，我呼唤你！"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard131
+	}
+	*173 
+	{
+		*TEXT "愿火焰吞噬你！"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard132
+	}
+	*174 
+	{
+		*TEXT "闪电，"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard133
+	}
+	*175 
+	{
+		*TEXT "我呼唤你！"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*176 
+	{
+		*TEXT "愿闪电"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard134
+	}
+	*177 
+	{
+		*TEXT "成为你的末日！"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*178 
+	{
+		*TEXT "你看到了吗？"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard135
+	}
+	*179 
+	{
+		*TEXT "那可真不错……"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard136
+	}
+	*180 
+	{
+		*TEXT "我打中他了，我打中他了！"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard137
+	}
+}

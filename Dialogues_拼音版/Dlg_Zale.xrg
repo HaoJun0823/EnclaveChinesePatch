@@ -1,0 +1,503 @@
+*dialogue default
+{
+	*25 zal_painsml
+	*26 zal_painmed
+	*27 zal_death
+	*28 zal_death
+	*29 zal_death
+	*30 zal_death
+	*40 zal_atksml01
+	*41 zal_atkmed01
+	*100 
+	{
+		*TEXT "Yi He Ping De Ming Yi £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ls12_01
+	}
+	*101 
+	{
+		*TEXT "Yi He Ping De Ming Yi £¬"
+		*SUBTITLEDURATION 3
+		*SOUND ls12_02
+	}
+	*102 
+	{
+		*TEXT "Na Ge Bei Shuang Fang Si Hui De Meng Yue ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*103 
+	{
+		*TEXT "Rang Ta Cheng Wei Niu Dai £¬ Yu He"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*104 
+	{
+		*TEXT "Ta Men Zhi Jian De Lie Xi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*105 
+	{
+		*TEXT "Ru Guo He Ping You Ren He Ji Hui"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*106 
+	{
+		*TEXT "Zai Na Xie Xia Ling Cui Hui"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*107 
+	{
+		*TEXT "Mei Hao Shi Wu £¬ Zhi Wei Zhan Zheng De Ren Xin Zhong"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "Sheng Zhang De Hua ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*109 
+	{
+		*TEXT "Rang Ta Zai Ci Shi Shi Xian Ba ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*110 
+	{
+		*TEXT "Yao Sai Bei Yi Dao Mo Fa Ping Zhang Suo Zhu Le ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls12_03
+	}
+	*111 
+	{
+		*TEXT ""
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*112 
+	{
+		*TEXT "Ni Xu Yao Zhao Dao San Ba Yao Shi ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*113 
+	{
+		*TEXT "Wo Xu Yao Suo You De Yao Shi ¡£ Kuai Qu £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ls12_04
+	}
+	*114 
+	{
+		*TEXT "Ni Hai Deng Shen Me £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls12_05
+	}
+	*115 
+	{
+		*TEXT "Ta Bu Hui Zi Ji Da Kai De £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*116 
+	{
+		*TEXT "Zen Me Yang £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls12_06
+	}
+	*117 
+	{
+		*TEXT "Kuai £¬ Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls12_07
+	}
+	*118 
+	{
+		*TEXT "Zheng Shi Shi Hou £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_01
+	}
+	*119 
+	{
+		*TEXT "Bie Yi Wei Wo Bu Zhi Dao"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*120 
+	{
+		*TEXT "Ni Yi Zhi Zai Zuo Shen Me ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*121 
+	{
+		*TEXT "Wo Ke Neng Yi Zhi Bei Qiu Jin Zhe £¬ Dan"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*122 
+	{
+		*TEXT "Dui Wai Mian De Shi Jie Bing Fei Yi Wu Suo Zhi ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*123 
+	{
+		*TEXT "Ni Xiang Yao Wo Cui Hui"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_02
+	}
+	*124 
+	{
+		*TEXT "Ka Mu - Zha La De Gao Di Tong Dao ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*125 
+	{
+		*TEXT "Wei Shen Me Ni Men Zhe Xie Ren Zong Shi"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*126 
+	{
+		*TEXT "Pao Lai Yao Wo Cui Hui Dong Xi £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*127 
+	{
+		*TEXT "Wo Xu Yao Xian Na Dao"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*128 
+	{
+		*TEXT "Da Di Zhi Ling Fa Zhang ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*129 
+	{
+		*TEXT "Ta Zai Wo Ji Bai Wa Ta Er Shi Yi Shi Le £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*130 
+	{
+		*TEXT "Wo Xiang Xin Ta"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*131 
+	{
+		*TEXT "Reng Ran Zai Xia Fang De"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*132 
+	{
+		*TEXT "Ming Jie Mou Chu ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*133 
+	{
+		*TEXT "Yin Wei Wo Reng Ran Neng Gan Jue Dao Ta De Cun Zai ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*134 
+	{
+		*TEXT "Zhao Dao Fa Zhang £¬ Ran Hou Dao"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*135 
+	{
+		*TEXT "Ka Mu - Zha La Yu Wo Hui He"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*136 
+	{
+		*TEXT "Zen Me Yang £¿ Kuai Qu £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_03
+	}
+	*137 
+	{
+		*TEXT "Hei £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_04
+	}
+	*138 
+	{
+		*TEXT "Zhe Ci Shi Zhe Zuo Dui Hao Ma £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_05
+	}
+	*139 
+	{
+		*TEXT "Tai Bang Le ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_06
+	}
+	*140 
+	{
+		*TEXT "Na Ge Bu Dui ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_07
+	}
+	*141 
+	{
+		*TEXT "Wo Bu Xi Huan Na Sheng Yin ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_08
+	}
+	*142 
+	{
+		*TEXT "Ru Guo Ni Yao Qing Wo"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_09
+	}
+	*143 
+	{
+		*TEXT "Bang Mang £¬ Jiu Gei Wo Zuo Hao £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*144 
+	{
+		*TEXT "E ¡­¡­ Bu Dui £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_10
+	}
+	*145 
+	{
+		*TEXT "Zai Shi Yi Ci ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND ls09_11
+	}
+	*146 
+	{
+		*TEXT "Ni Men Zhe Xie Ren Shang Dang Le £¬ Wo Zhen Gao Xing £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND csl02_02
+	}
+	*147 
+	{
+		*TEXT "Ye Bu Shi Wo You Shen Me Xuan Ze £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*148 
+	{
+		*TEXT "Wo Bei Kun Zhu Le ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*149 
+	{
+		*TEXT "Bi Xia £¬ Nin Suo Qing Qiu De"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*150 
+	{
+		*TEXT "Xian Zu Yuan Zhu Yi Zai Lu Shang ¡£"
+		*SUBTITLEDURATION 2
+		*SOUND 
+	}
+	*151 
+	{
+		*TEXT "Ta Men Yi Ming Ling Nin De Zhan Shi Men"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*152 
+	{
+		*TEXT "Cui Hui Ka Mu - Zha La De Tong Dao £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*153 
+	{
+		*TEXT "Yi Bian Ta Men Neng Pai Qian Jun Dui Tong Guo ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*155 
+	{
+		*TEXT "Ye Xu Ta Men Xian Zai Hui Fu Li Zhi £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*156 
+	{
+		*TEXT "Xun Qiu Yu Nin He Ping Xiang Chu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*158 
+	{
+		*TEXT "Wo Dan Xin Zui Huai De Qing Kuang ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND csl02_06
+	}
+	*159 
+	{
+		*TEXT "Mo De Sa Yi Ding Ba Ta"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*160 
+	{
+		*TEXT "Dai Qu Le A Ke Mu Er De Yao Sai"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*161 
+	{
+		*TEXT "Ni Bi Xu Li Ke Gan Wang Na Li £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*162 
+	{
+		*TEXT "Zu Zhi Zhao Huan Yi Shi"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*163 
+	{
+		*TEXT "De Fa Sheng ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*164 
+	{
+		*TEXT "Mei Shi Jian Lang Fei Le ¡£ Kuai Qu £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*165 
+	{
+		*TEXT "Wo Dan Xin Zui Zhong Hui"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*166 
+	{
+		*TEXT "Bian Cheng Zhe Yang ¡£ Ba Shu Gei Wo £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*167 
+	{
+		*TEXT "Wo Zai Ni Yan Li Xiang Shen Me £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale119
+	}
+	*168 
+	{
+		*TEXT "Chao Xie Yuan £¿ Suo Jiang £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*169 
+	{
+		*TEXT "Gei Wo Zou Kai £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*170 
+	{
+		*TEXT "Ni Xian Zai You Xiang Zen Yang ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale120
+	}
+	*171 
+	{
+		*TEXT "Mei Kan Jian Wo Zheng Mang Zhe Ma £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale121
+	}
+	*172 
+	{
+		*TEXT "Shi De £¬ Wo Shi Zha Er ¡£ Shi De £¬ Shi Wo Fang Zhu Le"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale122
+	}
+	*173 
+	{
+		*TEXT "Wa Ta Er £¬ Ye Shi Wo Fen Ge Le Shi Jie ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*174 
+	{
+		*TEXT "Wo Neng Zou Le Ma £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*175 
+	{
+		*TEXT "Wo Neng Zou Le Ma £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale123
+	}
+	*176 
+	{
+		*TEXT "Shi De £¬ Wo Zao Jiu Quan Zhi Dao Le ¡£"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale124
+	}
+	*177 
+	{
+		*TEXT "Suo Yi Bie Yong"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*178 
+	{
+		*TEXT "Xian Liao Lang Fei Wo De Shi Jian £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*179 
+	{
+		*TEXT "Wo Ye Bu Xi Huan Ni £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale125
+	}
+	*180 
+	{
+		*TEXT "Na Me £¬ Wo Men You Jian Mian Le ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_zale126
+	}
+	*181 
+	{
+		*TEXT "Bi Xia £¬ Dan Ta Men Tong Yi Lai Le £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND csl02_04
+	}
+	*183 
+	{
+		*TEXT "Suo Yi Ta Men Ye Wei Fan Le Ji ' Fu Luo De Meng Yue"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*185 
+	{
+		*TEXT "Wo Dan Xin Hui Bian Cheng Zhe Yang ¡£ Ba Shu Gei Wo £¡"
+		*SOUND ds06_01
+		*SUBTITLEDURATION 3.5
+	}
+}

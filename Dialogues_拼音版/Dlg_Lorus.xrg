@@ -1,0 +1,168 @@
+*dialogue default
+{
+	*25 ma_painsml
+	*26 ma_painsml
+	*27 ma_death
+	*28 ma_death
+	*29 ma_death
+	*30 ma_death
+	*40 ma_atksml01
+	*41 ma_atksml01
+	*100 
+	{
+		*TEXT "Shi De ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus001
+		*COLOR 0xfefefe
+	}
+	*101 
+	{
+		*TEXT "Bu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus002
+		*COLOR 0xfefefe
+	}
+	*102 
+	{
+		*TEXT "N ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus003
+		*COLOR 0xfefefe
+	}
+	*103 
+	{
+		*TEXT "Wo De Rong Xing ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus004
+		*COLOR 0xfefefe
+	}
+	*104 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus005
+		*COLOR 0xfefefe
+	}
+	*105 
+	{
+		*TEXT "Dui ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus006
+		*COLOR 0xfefefe
+	}
+	*106 
+	{
+		*TEXT "Hei £¬ Bie Nao Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND gen_lorus007
+		*COLOR 0xfefefe
+	}
+	*107 
+	{
+		*TEXT "Ma Ku Si Pai Ni Lai De £¿ Na Ge Bei Lie De Xiao Ren £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ls07_01
+		*COLOR 0xfefefe
+	}
+	*109 
+	{
+		*TEXT "Wo Shi Wei Yi Yi Ge Qu Guo Na Bian You Hui Lai De Ren ¡£"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*111 
+	{
+		*TEXT "Dan Ru Guo Ni Xiang Yao Wo De Bang Zhu £¬"
+		*COLOR 0xfefefe
+	}
+	*112 
+	{
+		*TEXT "Ni De Xian Wei Wo Zuo Jian Shi ¡£"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*114 
+	{
+		*TEXT "Ma Ku Si Na Zou Le Wo De Hang Hai Ri Zhi He Qi Ta De"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*116 
+	{
+		*TEXT "Ta Ben Gai Wei Wo Chu Shou De Huo Wu ¡£"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*117 
+	{
+		*TEXT "Zhe Bai Chi Ba Ta Mai Gei Le Yi Xie Zhe Li Di Dang Di Ren £¬"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*119 
+	{
+		*TEXT "Er Ta Men Ju Jue Gui Huan £¡"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*120 
+	{
+		*TEXT "Ba Wo De Shu Na Hui Lai £¡"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*121 
+	{
+		*TEXT "Ran Hou Wo Men Zai Tan Tan Ba Ni Song Dao Ling Yi Bian Qu De Shi ¡£"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*123 
+	{
+		*TEXT "Bu Guo Reng Ran Bu Hui Pian Yi ¡£ Hai Yao Dang Xin Na Xie Shui Yu £¡"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*124 
+	{
+		*TEXT "Ta Bi Kan Qi Lai Leng De Duo ¡£"
+		*SUBTITLEDURATION 3
+		*COLOR 0xfefefe
+	}
+	*126 
+	{
+		*TEXT "Wo Hai Shi Xiang Bu Tong Wei Shen Me You Ren"
+		*SOUND ls07_02
+	}
+	*127 
+	{
+		*TEXT "Hui Xiang Qu Na Ge"
+		*SOUND 
+	}
+	*128 
+	{
+		*TEXT "Bei Shen Yi Qi De Mei Ke Lun Na Ge Gui Di Fang ¡£"
+		*SOUND 
+	}
+	*129 
+	{
+		*TEXT "Wo Ting Shuo Wai Yu Zhe Zheng Zai"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*130 
+	{
+		*TEXT "Na Li Fa Dong Zhan Zheng £¬ Shen Zhi Xian Zai Jiu Zai Da ¡£"
+		*SOUND 
+	}
+	*131 
+	{
+		*TEXT "Dan Na Shi Ni De Wen Ti £¬ Bu Shi Wo De £¡"
+		*SOUND 
+	}
+	*132 
+	{
+		*TEXT "Wo Men Yi Ran Zai Li Ming Shi Fen Kai Chuan ¡£"
+		*SOUND 
+	}
+}

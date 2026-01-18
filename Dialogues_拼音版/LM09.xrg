@@ -1,0 +1,30 @@
+*dialogue Default
+{
+	*1 
+	{
+		*TEXT "Ni Xu Yao Yi Ba Yao Shi Lai Da Kai Zhe Shan Men"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*2 
+	{
+		*TEXT "Ni Jian Qi Le Yi Ba Sheng Xiu De Yao Shi"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*3 
+	{
+		*TEXT "Zhe Tai Ji Qi Xu Yao Qi Ta Wei Zhi De Ya Li"
+		*SUBTITLEDURATION 5
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+}

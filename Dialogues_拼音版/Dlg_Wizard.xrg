@@ -1,0 +1,442 @@
+*dialogue default
+{
+	*25 m6_painsml
+	*26 m6_painmed
+	*27 m6_death
+	*28 m6_death
+	*29 m6_death
+	*30 m6_death
+	*40 m6_atksml01
+	*41 m6_atkmed01
+	*60 wiz_aiidle
+	*61 wiz_aidete
+	*62 wiz_aispot
+	*63 wiz_aichar
+	*66 wiz_aisurp
+	*100 
+	{
+		*TEXT "Jiu Ming £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard021
+	}
+	*101 
+	{
+		*TEXT "Jiu Jiu Wo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard022
+	}
+	*102 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard014
+	}
+	*103 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard016
+	}
+	*104 
+	{
+		*TEXT "Wo Zai Zhe Er £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard046
+	}
+	*105 
+	{
+		*TEXT "Xie Xie Ni £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard075
+	}
+	*106 
+	{
+		*TEXT "Wo Men Ying Gai Lian Shou £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard317
+	}
+	*107 
+	{
+		*TEXT "Wo Men Ying Gai Dai Zai Yi Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard318
+	}
+	*108 
+	{
+		*TEXT "You Yi Wei Yong Gan De Zhan Shi £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard319
+	}
+	*109 
+	{
+		*TEXT "Bao Chi Jing Ti ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard323
+	}
+	*110 
+	{
+		*TEXT "Wei Shen Me Shi Wo ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard324
+	}
+	*111 
+	{
+		*TEXT "Gen Wo Lai £¡ Wo Zhi Dao Ling Yi Tiao Lu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard329
+	}
+	*112 
+	{
+		*TEXT "Wo Hui Hui Lai De £¬ Zai Zhe Li Deng Wo ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard008
+	}
+	*113 
+	{
+		*TEXT "Qing Zai Zhe Li Deng Hou ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard009
+	}
+	*114 
+	{
+		*TEXT "Wo Hui Zai Zhe Li Deng Ni Hui Lai ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard011
+	}
+	*115 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard014
+	}
+	*116 
+	{
+		*TEXT "Wo Hui Gen Zhe Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard015
+	}
+	*117 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard016
+	}
+	*119 
+	{
+		*TEXT "Hei £¬ Ni £¬ Zhe Bian £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard044
+	}
+	*120 
+	{
+		*TEXT "Wo Zai Zhe Er £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard046
+	}
+	*121 
+	{
+		*TEXT "Wo Men Zao Dao Gong Ji Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard050
+	}
+	*122 
+	{
+		*TEXT "Ta Men Zai Gong Ji Wo Men £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard051
+	}
+	*123 
+	{
+		*TEXT "You Xian Jing £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard056
+	}
+	*125 
+	{
+		*TEXT "Kai Huo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard061
+	}
+	*126 
+	{
+		*TEXT "Chong A £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard062
+	}
+	*127 
+	{
+		*TEXT "Gan De Piao Liang £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard071
+	}
+	*128 
+	{
+		*TEXT "Gan De Hao £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard072
+	}
+	*129 
+	{
+		*TEXT "Tai Hao Le £¬ Wo Qian Ni Ge Ren Qing"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard073
+	}
+	*130 
+	{
+		*TEXT "Xie Xie Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard075
+	}
+	*131 
+	{
+		*TEXT "Wo Men Bi Xu Zhua Jin £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard081
+	}
+	*132 
+	{
+		*TEXT "Wo Ben Gai Zuo Shen Me ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard119
+	}
+	*133 
+	{
+		*TEXT "A £¬ Zhan Dou £¡"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*134 
+	{
+		*TEXT "Wo Bei Pai Lai Zhe Li"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard120
+	}
+	*135 
+	{
+		*TEXT "Bang Zhu Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*137 
+	{
+		*TEXT "Wei Le Sai Lei Hai Mu £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard122
+	}
+	*140 
+	{
+		*TEXT "Rang Ta Men Jian Shi Jian Shi £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard123
+	}
+	*141 
+	{
+		*TEXT "Gan Shou Wo De Nu Huo Ba £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard124
+	}
+	*142 
+	{
+		*TEXT "Wo Zhao Bu Dao Wo De Shu Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard125
+	}
+	*143 
+	{
+		*TEXT "Wo Xu Yao Wo De Fa Zhang £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard126
+	}
+	*144 
+	{
+		*TEXT "Mei You Fa Zhang Wo Wu Fa"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*145 
+	{
+		*TEXT "Zhan Dou ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*146 
+	{
+		*TEXT "Shi De ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard301
+	}
+	*147 
+	{
+		*TEXT "Bu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard302
+	}
+	*148 
+	{
+		*TEXT "N ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard303
+	}
+	*149 
+	{
+		*TEXT "Bu Ke Qi"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard304
+	}
+	*150 
+	{
+		*TEXT "Wo De Rong Xing"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard305
+	}
+	*151 
+	{
+		*TEXT "Jiu Sheng Ji Ge Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard306
+	}
+	*152 
+	{
+		*TEXT "Jiu Sheng Yi Ge Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard307
+	}
+	*155 
+	{
+		*TEXT "Wo Xu Yao Fa Li £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard310
+	}
+	*156 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard311
+	}
+	*157 
+	{
+		*TEXT "Dui ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard312
+	}
+	*158 
+	{
+		*TEXT "Xiao Xin £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard313
+	}
+	*159 
+	{
+		*TEXT "Dang Xin £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard314
+	}
+	*160 
+	{
+		*TEXT "Kan Zhe Dian £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard315
+	}
+	*161 
+	{
+		*TEXT "Zhu Shou £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard316
+	}
+	*162 
+	{
+		*TEXT "Wo Shi Wu Shi £¬ Huo Xu"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard400
+	}
+	*163 
+	{
+		*TEXT "Ni Xu Yao Yi Xie Mo Fa £¿"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*166 
+	{
+		*TEXT "Wei Ju Wo De Nu Huo Ba £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard127
+	}
+	*167 
+	{
+		*TEXT "Wo Hu Huan Yuan Su Zhi Li £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_wizard128
+	}
+	*169 
+	{
+		*TEXT "Shui A £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard129
+	}
+	*170 
+	{
+		*TEXT "Wo Hu Huan Ni £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*171 
+	{
+		*TEXT "Yuan Shui Yong Bao Ni £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard130
+	}
+	*172 
+	{
+		*TEXT "Huo Yan £¬ Wo Hu Huan Ni £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard131
+	}
+	*173 
+	{
+		*TEXT "Yuan Huo Yan Tun Shi Ni £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard132
+	}
+	*174 
+	{
+		*TEXT "Shan Dian £¬"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard133
+	}
+	*175 
+	{
+		*TEXT "Wo Hu Huan Ni £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*176 
+	{
+		*TEXT "Yuan Shan Dian"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard134
+	}
+	*177 
+	{
+		*TEXT "Cheng Wei Ni De Mo Ri £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND 
+	}
+	*178 
+	{
+		*TEXT "Ni Kan Dao Le Ma £¿"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard135
+	}
+	*179 
+	{
+		*TEXT "Na Ke Zhen Bu Cuo ¡­¡­"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard136
+	}
+	*180 
+	{
+		*TEXT "Wo Da Zhong Ta Le £¬ Wo Da Zhong Ta Le £¡"
+		*SUBTITLEDURATION 3.5
+		*SOUND ge_wizard137
+	}
+}

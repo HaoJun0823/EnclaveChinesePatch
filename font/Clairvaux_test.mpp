@@ -1,0 +1,16 @@
+void main()
+{
+	Log("-------------------------------------------------------------------");
+	Log("Compiling Clairvaux font file...");
+
+	//Read the CFG for the font.
+	XFC_ReadFontScriptWin32("Clairvaux.cfg");
+
+	Log("Read TTF done!");
+
+	//Create the compiled XFC.
+	int OutputXTC = DFile_Create("Clairvaux.xfc");
+	XFC_WriteFont(OutputXTC, 0);
+	DFile_Close(OutputXTC);
+
+}

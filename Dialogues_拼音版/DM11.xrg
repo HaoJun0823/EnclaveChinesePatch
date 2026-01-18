@@ -1,0 +1,57 @@
+*dialogue Default
+{
+	*1 
+	{
+		*TEXT "Ni Xu Yao Yi Ba Yao Shi Lai Da Kai Zhe Shan Men"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*2 
+	{
+		*TEXT "Ni Jian Qi Le Yi Ba Sheng Xiu De Yao Shi"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*3 
+	{
+		*TEXT "Ni Jian Qi Le Yin Xin"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*4 
+	{
+		*TEXT "Ni Jian Qi Le Da Huo Shi"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*5 
+	{
+		*TEXT "Ni Jian Qi Le Zha Dan"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*6 
+	{
+		*TEXT "Zha Dan Yi Zu Zhuang Wan Cheng"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+}

@@ -1,0 +1,336 @@
+*dialogue default
+{
+	*25 m3_painsml
+	*26 m3_painmed
+	*27 m3_death
+	*28 m3_death
+	*29 m3_death
+	*30 m3_death
+	*40 m3_atksml01
+	*41 m3_atkmed01
+	*61 eng_aidete
+	*62 eng_aispot
+	*63 eng_aichar
+	*66 eng_aisurp
+	*100 
+	{
+		*TEXT "Jiu Ming £¡"
+		*SOUND ge_engineer021
+	}
+	*101 
+	{
+		*TEXT "Jiu Jiu Wo £¡"
+		*SOUND ge_engineer022
+	}
+	*102 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SOUND ge_engineer014
+	}
+	*103 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SOUND ge_engineer016
+	}
+	*104 
+	{
+		*TEXT "Wo Zai Zhe Er £¡"
+		*SOUND ge_engineer046
+	}
+	*105 
+	{
+		*TEXT "Xie Xie Ni £¡"
+		*SOUND ge_engineer075
+	}
+	*106 
+	{
+		*TEXT "Wo Men Ying Gai Lian Shou £¡"
+		*SOUND ge_engineer317
+	}
+	*107 
+	{
+		*TEXT "Wo Men Ying Gai Dai Zai Yi Qi ¡£"
+		*SOUND ge_engineer318
+	}
+	*108 
+	{
+		*TEXT "You Yi Wei Yong Gan De Zhan Shi £¡"
+		*SOUND ge_engineer319
+	}
+	*109 
+	{
+		*TEXT "Bao Chi Jing Ti ¡£"
+		*SOUND ge_engineer323
+	}
+	*110 
+	{
+		*TEXT "Wei Shen Me Shi Wo ¡­¡­"
+		*SOUND ge_engineer324
+	}
+	*111 
+	{
+		*TEXT "Gen Wo Lai £¡ Wo Zhi Dao Ling Yi Tiao Lu ¡£"
+		*SOUND ge_engineer329
+	}
+	*112 
+	{
+		*TEXT "Wo Hui Hui Lai De £¬ Zai Zhe Li Deng Wo ¡£"
+		*SOUND ge_engineer008
+	}
+	*113 
+	{
+		*TEXT "Qing Zai Zhe Li Deng Hou ¡£"
+		*SOUND ge_engineer009
+	}
+	*114 
+	{
+		*TEXT "Wo Hui Zai Zhe Li Deng Ni Hui Lai ¡£"
+		*SOUND ge_engineer011
+	}
+	*115 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SOUND ge_engineer014
+	}
+	*116 
+	{
+		*TEXT "Wo Hui Gen Zhe Ni ¡£"
+		*SOUND ge_engineer015
+	}
+	*117 
+	{
+		*TEXT "Gen Wo Lai £¡"
+		*SOUND ge_engineer016
+	}
+	*118 
+	{
+		*TEXT "Wo Xiang Wo Neng Bang Dao Ni ¡£"
+		*SOUND ge_engineer026
+	}
+	*119 
+	{
+		*TEXT "Hei £¬ Ni £¬ Zhe Bian £¡"
+		*SOUND ge_engineer044
+	}
+	*120 
+	{
+		*TEXT "Wo Zai Zhe Er £¡"
+		*SOUND ge_engineer046
+	}
+	*121 
+	{
+		*TEXT "Wo Men Zao Dao Gong Ji Le £¡"
+		*SOUND ge_engineer050
+	}
+	*122 
+	{
+		*TEXT "Ta Men Zai Gong Ji Wo Men £¡"
+		*SOUND ge_engineer051
+	}
+	*123 
+	{
+		*TEXT "Shi Mai Fu £¡"
+		*SOUND ge_engineer056b
+	}
+	*124 
+	{
+		*TEXT "Wo Men Zao Dao Gong Ji Le £¡"
+		*SOUND ge_engineer56
+	}
+	*125 
+	{
+		*TEXT "Kai Huo £¡"
+		*SOUND ge_engineer061
+	}
+	*126 
+	{
+		*TEXT "Chong A £¡"
+		*SOUND ge_engineer062
+	}
+	*127 
+	{
+		*TEXT "Gan De Piao Liang £¡"
+		*SOUND ge_engineer071
+	}
+	*128 
+	{
+		*TEXT "Gan De Hao £¡"
+		*SOUND ge_engineer072
+	}
+	*129 
+	{
+		*TEXT "Tai Hao Le £¬ Wo Qian Ni Dian Shen Me ¡£"
+		*SOUND ge_engineer073b
+	}
+	*130 
+	{
+		*TEXT "Xie Xie Ni ¡£"
+		*SOUND ge_engineer075
+	}
+	*131 
+	{
+		*TEXT "Wo Men Bi Xu Zhua Jin £¡"
+		*SOUND ge_engineer081
+	}
+	*132 
+	{
+		*TEXT "Ni Shi Xiang Yao Wo Jian Zao Hai Shi"
+		*SOUND ge_engineer119
+	}
+	*133 
+	{
+		*TEXT "Chai Chu Shen Me Dong Xi £¿"
+		*SOUND 
+	}
+	*134 
+	{
+		*TEXT "Wo Xi Huan Chai Dong Xi £¡"
+		*SOUND ge_engineer120
+	}
+	*135 
+	{
+		*TEXT "Wo Ke Yi Bang Ni Ba Ta Zha Diao £¡"
+		*SOUND ge_engineer121
+	}
+	*136 
+	{
+		*TEXT "Wo Zhi Xu Yao Yi Tong Shang Hao De Huo Yao £¡"
+		*SOUND ge_engineer122
+	}
+	*137 
+	{
+		*TEXT "Wo Shou Guo Zui Hao De Xun Lian £¡ Wo Neng"
+		*SOUND ge_engineer123
+	}
+	*138 
+	{
+		*TEXT "Chong Jian Ren He Dong Xi £¡"
+		*SOUND 
+	}
+	*139 
+	{
+		*TEXT "N ¡­¡­ Ji Hu Ren He Dong Xi ¡£"
+		*SOUND 
+	}
+	*140 
+	{
+		*TEXT "Shi De £¬ Hong £¡"
+		*SOUND ge_engineer124
+	}
+	*141 
+	{
+		*TEXT "Mei Cuo £¡"
+		*SOUND ge_engineer125
+	}
+	*142 
+	{
+		*TEXT "Rang Yi Qie Dou Bao Zha Ba ¡­¡­ Peng £¡"
+		*SOUND ge_engineer126
+	}
+	*143 
+	{
+		*TEXT "Ni Ting Dao Le Ma £¿"
+		*SOUND ge_engineer127
+	}
+	*144 
+	{
+		*TEXT "Duo Me Zhen Han De Bao Zha £¡"
+		*SOUND 
+	}
+	*145 
+	{
+		*TEXT "Zhe Ying Gai Neng Rang Qi Fen Huo Yue Qi Lai £¡"
+		*SOUND ge_engineer128
+	}
+	*146 
+	{
+		*TEXT "Shi De ¡£"
+		*SOUND ge_engineer301
+	}
+	*147 
+	{
+		*TEXT "Bu ¡£"
+		*SOUND ge_engineer302
+	}
+	*148 
+	{
+		*TEXT "N ¡­¡­"
+		*SOUND ge_engineer303
+	}
+	*149 
+	{
+		*TEXT "Bu Ke Qi"
+		*SOUND ge_engineer304
+	}
+	*150 
+	{
+		*TEXT "Wo De Rong Xing"
+		*SOUND ge_engineer305
+	}
+	*151 
+	{
+		*TEXT "Jiu Sheng Ji Ge Le £¡"
+		*SOUND ge_engineer306
+	}
+	*152 
+	{
+		*TEXT "Jiu Sheng Yi Ge Le £¡"
+		*SOUND ge_engineer307
+	}
+	*153 
+	{
+		*TEXT "Wo Xu Yao Geng Duo Jian £¡"
+		*SOUND ge_engineer308
+	}
+	*154 
+	{
+		*TEXT "Wo Xu Yao Zhi Liao Yao Shui £¡"
+		*SOUND ge_engineer309
+	}
+	*155 
+	{
+		*TEXT "Wo Xu Yao Fa Li £¡"
+		*SOUND ge_engineer310
+	}
+	*156 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SOUND ge_engineer311
+	}
+	*157 
+	{
+		*TEXT "Dui ¡£"
+		*SOUND ge_engineer312
+	}
+	*158 
+	{
+		*TEXT "Xiao Xin £¡"
+		*SOUND ge_engineer313
+	}
+	*159 
+	{
+		*TEXT "Dang Xin £¡"
+		*SOUND ge_engineer314
+	}
+	*160 
+	{
+		*TEXT "Ting Xia £¡"
+		*SOUND ge_engineer315
+	}
+	*161 
+	{
+		*TEXT "Zhu Shou £¡"
+		*SOUND ge_engineer316
+	}
+	*162 
+	{
+		*TEXT "Wo Shi Gong Cheng Shi £¬ Ni Huo Xu"
+		*SUBTITLEDURATION 3
+		*SOUND ge_engineer400
+	}
+	*163 
+	{
+		*TEXT "Neng Yong De Shang Wo De Ji Neng £¡"
+		*SOUND 
+	}
+}

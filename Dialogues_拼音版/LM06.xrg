@@ -1,0 +1,12 @@
+*dialogue Default
+{
+	 *10 
+	{
+		*TEXT "Ni Jian Qi Le Shuang Han Zhi Jian"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+}

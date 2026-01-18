@@ -1,0 +1,267 @@
+*dialogue default
+{
+	*20 sats_groundb
+	*22 land_groundb
+	*23 land_hard01b
+	*24 land_hard02b
+	*25 wol_painsml
+	*26 wol_painmed
+	*27 wol_death
+	*28 wol_death
+	*29 wol_death
+	*30 wol_death
+	*31 fw_groundb
+	*32 ft_groundb
+	*33 fs_groundb
+	*40 wol_atksml01
+	*41 wol_atkmed01
+	*60 wol_aiidle
+	*61 wol_aidete
+	*62 wol_aispot
+	*63 wol_aichar
+	*64 wol_aitaunt1
+	*65 wol_aitaunt3
+	*66 wol_aisurp
+	*100 
+	{
+		*TEXT "Kuai Pao £¡"
+		*SOUND wol_special25a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*101 
+	{
+		*TEXT "Wei Xian De Xian Jing £¬ Ni Xian Zou £¡"
+		*SOUND wol_special22a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*102 
+	{
+		*TEXT "Xiao Xin Bei Hou £¡"
+		*SOUND wol_special23a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*103 wol_special19a
+	*104 
+	{
+		*TEXT "Bu Shi Na Ge £¡ Bu Shi Na Ge £¡"
+		*SUBTITLEDURATION 3
+		*SOUND wol_special29a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*105 
+	{
+		*TEXT "Cuo Cuo Cuo Cuo £¡"
+		*SOUND wol_special31a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*106 
+	{
+		*TEXT "La Xia Cao Zong Gan £¡"
+		*SOUND wol_special32a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*107 
+	{
+		*TEXT "Xiao Xin Fu Tou £¡"
+		*SOUND wol_special24a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*108 
+	{
+		*TEXT "Gen Wo Lai £¬ Wo Zhi Dao Lu £¡ Kuai Lai £¡"
+		*SOUND wol_special34a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*109 
+	{
+		*TEXT "Lai Lai £¬ Gen Wo Lai £¡"
+		*SOUND wol_special33a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*110 
+	{
+		*TEXT "Wo Dai Lu £¡ Hao Di Jing £¡ Shi De £¬ Shi De £¡"
+		*SUBTITLEDURATION 3
+		*SOUND wol_special35a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*111 
+	{
+		*TEXT "Hao Ke Pa £¡ Bu Xiang Zai Gen Ni Zou Le £¡"
+		*SOUND wol_special39a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*112 
+	{
+		*TEXT "Mao Rong Rong De Guai Wu £¡ Mao Rong Rong De Guai Wu £¡"
+		*SUBTITLEDURATION 2
+		*SOUND wol_special36a
+		*COLOR 0xfefefe
+		*FLAGS 2
+	}
+	*120 
+	{
+		*TEXT "Guo Lai £¬ Ting Zhe £¡"
+		*SUBTITLEDURATION 2
+		*SOUND wol_special43a
+		*FLAGS 2
+	}
+	*121 
+	{
+		*TEXT "Ni Zhen Gai Kan Kan Zuo Tian ¡£ Mu ¡¤ A Zha Mu £¡"
+		*SUBTITLEDURATION 6.5
+		*SOUND wol_special44a
+		*FLAGS 2
+	}
+	*122 
+	{
+		*TEXT "Huang Jin Ling Dang £¡ Hao Duo Xiao Bei Jiu £¬ Da Tou Teng £¡"
+		*SUBTITLEDURATION 6.1
+		*SOUND wol_special45a
+		*FLAGS 2
+	}
+	*123 
+	{
+		*TEXT "Ao £¬ Ni Neng Bu Neng Bu Fang Wo Chu Qu £¿"
+		*SUBTITLEDURATION 4.1
+		*SOUND wol_special46a
+		*FLAGS 2
+	}
+	*124 
+	{
+		*TEXT "Huai Huai De Lao Tou £¬ Hong Wai Tao £¡ Chou Hu Zi"
+		*SUBTITLEDURATION 5.2
+		*SOUND wol_special47a
+		*FLAGS 2
+	}
+	*125 
+	{
+		*TEXT "Wo Bei Suo Zhu Le ¡£ Gei Ni Qian £¡"
+		*SUBTITLEDURATION 3.8
+		*SOUND wol_special48a
+		*FLAGS 2
+	}
+	*126 
+	{
+		*TEXT "Kan Jian Xiong Di Fei Le £¡ Wo Men Shi Huang Jin Ling Dang £¡"
+		*SUBTITLEDURATION 6
+		*SOUND wol_special49a
+		*FLAGS 2
+	}
+	*127 
+	{
+		*TEXT "Da Shou Ren £¬ Zhe Me Da £¡"
+		*SUBTITLEDURATION 4
+		*SOUND wol_special50a
+		*FLAGS 2
+	}
+	*128 
+	{
+		*TEXT "Shou Ren Ba Xiong Di Reng Chu Qu ¡£ Peng £¬ Peng £¡"
+		*SUBTITLEDURATION 5.6
+		*SOUND wol_special51a
+		*FLAGS 2
+	}
+	*129 
+	{
+		*TEXT "Ke Lian De Xiong Di £¡ Hei Ni ¡­¡­ Gai Si De £¡"
+		*SUBTITLEDURATION 4.8
+		*SOUND wol_special52a
+		*FLAGS 2
+	}
+	*130 
+	{
+		*TEXT "Xiang Qi Lai Le ¡­¡­ Xiong Di De Yao Shi £¬ Ta Hui Bu Liao Jia Le £¡"
+		*SUBTITLEDURATION 6
+		*SOUND wol_special53a
+		*FLAGS 2
+	}
+	*131 
+	{
+		*TEXT "Ni Neng Bu Na Yao Shi Ma £¿ Gei Xiong Di ¡£"
+		*SUBTITLEDURATION 3.8
+		*SOUND wol_special54a
+		*FLAGS 2
+	}
+	*132 
+	{
+		*TEXT "Gei ¡£ Wo Gei Ni Qian ¡­¡­ E ¡­¡­ Qian £¡"
+		*SUBTITLEDURATION 4.6
+		*SOUND wol_special55a
+		*FLAGS 2
+	}
+	*133 
+	{
+		*TEXT "Mei Qian £¿ Mei Qian £¿£¿ A £¡"
+		*SUBTITLEDURATION 6.1
+		*SOUND wol_special56a
+		*FLAGS 2
+	}
+	*134 
+	{
+		*TEXT "Wo You Peng You £¬ Tang Xiong £¡ Qu Meng Jing Zhuang Yuan ¡£"
+		*SUBTITLEDURATION 5.7
+		*SOUND wol_special57a
+		*FLAGS 2
+	}
+	*135 
+	{
+		*TEXT "Ta Hen Hai Pa £¬ Hao Hai Pa £¡"
+		*SUBTITLEDURATION 2.2
+		*SOUND wol_special58a
+		*FLAGS 2
+	}
+	*136 
+	{
+		*TEXT "E £¬ Ke Shi Ni £¬ Ke Lian De Xiong Di ¡£ Fang Wo Chu Qu £¡ Gei Qian £¡ Qian £¡"
+		*SUBTITLEDURATION 9.5
+		*SOUND wol_special59a
+		*FLAGS 2
+	}
+	*137 
+	{
+		*TEXT "Fang Wo Chu Qu £¬ Gao Su Ni Mi Mi ¡£ Gei Ni Qian ¡£ Yi Dian Dian Qian ¡£"
+		*SUBTITLEDURATION 7.1
+		*SOUND wol_special60a
+		*FLAGS 2
+	}
+	*138 
+	{
+		*TEXT "Ru Guo Xian Zai Bu Na Qian £¬ Ni Jiu Yong Yuan Yong Yuan Mei Qian Le £¡"
+		*SUBTITLEDURATION 5.3
+		*SOUND wol_special61a
+		*FLAGS 2
+	}
+	*139 
+	{
+		*TEXT "Ke Lian De Xiong Di ¡£ Na Zhe Ta De Yao Shi ¡£ Zhen Ke Lian £¡"
+		*SUBTITLEDURATION 7.3
+		*SOUND wol_special62a
+		*FLAGS 2
+	}
+	*140 
+	{
+		*TEXT "Na Jiu Wang Le Wo Ba ¡£ Wang Le Wo ¡£ Zou Ba £¡"
+		*SUBTITLEDURATION 4.7
+		*SOUND wol_special63a
+		*FLAGS 2
+	}
+	*141 
+	{
+		*TEXT "Deng Ta Xia Mian ¡£ Quan Shi Shan Liang De Qian £¡ Wang Le Wo Ba ¡£ Xian Zai Jiu Zou £¡"
+		*SUBTITLEDURATION 5.6
+		*SOUND wol_special64a
+		*FLAGS 2
+	}
+}

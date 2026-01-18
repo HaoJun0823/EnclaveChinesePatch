@@ -1,0 +1,410 @@
+*dialogue default
+{
+	*25 f3_painsml
+	*26 f3_painmed
+	*27 f3_death
+	*28 f3_death
+	*29 f3_death
+	*30 f3_death
+	*40 f3_atksml01
+	*41 f3_atkmed01
+	*61 ass_aidete
+	*62 ass_aispot
+	*63 ass_aichar
+	*66 ass_aisurp
+	*100 
+	{
+		*TEXT "所以，我看他们连自己人也关押。"
+		*SUBTITLEDURATION 3
+		*SOUND ls01_01
+	}
+	*102 
+	{
+		*TEXT "你听到的声音，"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*104 
+	{
+		*TEXT "是你死亡的声音。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*106 
+	{
+		*TEXT "是我外域者同胞们雷鸣般的滚滚动地声。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "是德雷格'阿塔尔"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*109 
+	{
+		*TEXT "屠杀你们同类的声音，"
+		*SOUND 
+	}
+	*111 
+	{
+		*TEXT "以及攀登这座弱小堡垒城墙的声音。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*113 
+	{
+		*TEXT "他们是来解救我的。"
+		*SUBTITLEDURATION 3
+		*SOUND ls01_03
+	}
+	*115 
+	{
+		*TEXT "如果他们没能先抓住你，"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*117 
+	{
+		*TEXT "我会亲手把你撕碎，用我的——"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*119 
+	{
+		*TEXT "我会回来的，在这里等我。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin008
+	}
+	*121 
+	{
+		*TEXT "在这里等着。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin009
+	}
+	*122 
+	{
+		*TEXT "我会在这里等你回来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin011
+	}
+	*124 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin014
+	}
+	*125 
+	{
+		*TEXT "我会跟着你！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin015
+	}
+	*126 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin016
+	}
+	*127 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin021
+	}
+	*128 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin022
+	}
+	*129 
+	{
+		*TEXT "我想我能帮到你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin026
+	}
+	*130 
+	{
+		*TEXT "嘿，你，这边！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin044
+	}
+	*131 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin046
+	}
+	*132 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin050
+	}
+	*133 
+	{
+		*TEXT "他们在攻击我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin051
+	}
+	*134 
+	{
+		*TEXT "有陷阱！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin056
+	}
+	*135 
+	{
+		*TEXT "是埋伏！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin056b
+	}
+	*136 
+	{
+		*TEXT "开火！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin061
+	}
+	*137 
+	{
+		*TEXT "冲啊！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin062
+	}
+	*138 
+	{
+		*TEXT "干得漂亮。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin071
+	}
+	*139 
+	{
+		*TEXT "干得好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin072
+	}
+	*140 
+	{
+		*TEXT "太好了，我欠你个人情。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin073
+	}
+	*142 
+	{
+		*TEXT "谢谢你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin075
+	}
+	*143 
+	{
+		*TEXT "我们必须抓紧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin081
+	}
+	*144 
+	{
+		*TEXT "我的刀刃锋利，死亡迅疾。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin119
+	}
+	*146 
+	{
+		*TEXT "今天你想让谁死？"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin120
+	}
+	*148 
+	{
+		*TEXT "我是一名刺客，最好的那种。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*150 
+	{
+		*TEXT "我为这件武器准备了多日。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin121
+	}
+	*152 
+	{
+		*TEXT "我正变得焦躁不安，我想使用它。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*154 
+	{
+		*TEXT "这里面有什么好处吗？"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin122
+	}
+	*156 
+	{
+		*TEXT "我既能快速，也能痛苦地送达死亡。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin123
+	}
+	*159 
+	{
+		*TEXT "尝尝这个！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin124
+	}
+	*160 
+	{
+		*TEXT "感受这个吧，你这混蛋！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin125
+	}
+	*161 
+	{
+		*TEXT "这会给你个教训！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin126
+	}
+	*162 
+	{
+		*TEXT "你找不到更好的人了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin127
+	}
+	*164 
+	{
+		*TEXT "我是最强的！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin128
+	}
+	*165 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin301
+	}
+	*166 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin302
+	}
+	*167 
+	{
+		*TEXT "嗯……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin303
+	}
+	*168 
+	{
+		*TEXT "不客气。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin304
+	}
+	*169 
+	{
+		*TEXT "我的荣幸。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin305
+	}
+	*170 
+	{
+		*TEXT "就剩几个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin306
+	}
+	*171 
+	{
+		*TEXT "就剩一个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin307
+	}
+	*172 
+	{
+		*TEXT "我需要更多箭！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin308
+	}
+	*173 
+	{
+		*TEXT "我需要治疗药水！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin309
+	}
+	*174 
+	{
+		*TEXT "我需要法力。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin310
+	}
+	*175 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin311
+	}
+	*176 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin312
+	}
+	*177 
+	{
+		*TEXT "嘿，小心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin313
+	}
+	*178 
+	{
+		*TEXT "当心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin314
+	}
+	*179 
+	{
+		*TEXT "看着点！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin315
+	}
+	*180 
+	{
+		*TEXT "停下！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin316
+	}
+	*181 
+	{
+		*TEXT "我们应该联手。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin317
+	}
+	*182 
+	{
+		*TEXT "我们应该待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin318
+	}
+	*183 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin319
+	}
+	*184 
+	{
+		*TEXT "我是一名刺客，我的技能可能很有用。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin320
+	}
+	*186 
+	{
+		*TEXT "我感觉到有什么东西……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin323
+	}
+	*187 
+	{
+		*TEXT "跟我来！我知道另一条路。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_assassin329
+	}
+}

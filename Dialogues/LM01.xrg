@@ -1,0 +1,129 @@
+*dialogue Default
+{
+	*10 
+	{
+		*TEXT "按 §LTUTORIAL_SECONDARY 来启动拉杆"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*11 
+	{
+		*TEXT "按 §LTUTORIAL_WEAPON 来启动武器。|按 §LTUTORIAL_PRIMARY 来使用武器"
+		*SUBTITLEDURATION 6
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*12 
+	{
+		*TEXT "下水道中需要火把"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*13 
+	{
+		*TEXT "按 §LTUTORIAL_ITEM 来切换物品并激活盾牌。|按 §LTUTORIAL_SECONDARY 来格挡"
+		*SUBTITLEDURATION 8
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*14 
+	{
+		*TEXT "按 §LTUTORIAL_CROUCH 来蹲下"
+		*SUBTITLEDURATION 4
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*15 
+	{
+		*TEXT "按 §LTUTORIAL_JUMP 来跳跃"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*16 
+	{
+		*TEXT "按 §LTUTORIAL_SECONDARY 来使用钥匙"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*17 
+	{
+		*TEXT "你需要一把钥匙来打开这扇门"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 2
+		*SOUND 
+	}
+	*18 
+	{
+		*TEXT "按 §LTUTORIAL_ITEM 来切换物品"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*19 
+	{
+		*TEXT "按 §LTUTORIAL_ITEM 来使用火把"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*50 
+	{
+		*TEXT "爬梯子时，跳跃并向前移动"
+		*SUBTITLEDURATION 4
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 2
+		*SOUND 
+	}
+	*51 
+	{
+		*TEXT "按 §LTUTORIAL_POTION 来喝治疗药水"
+		*SUBTITLEDURATION 4
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 3
+		*SOUND 
+	}
+	*52 
+	{
+		*TEXT "你捡起了一支火把"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 2
+		*SOUND 
+	}
+	*53 
+	{
+		*TEXT "你捡起了一把生锈的钥匙"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*FLAGS 2
+		*SOUND 
+	}
+}

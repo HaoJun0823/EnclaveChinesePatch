@@ -1,0 +1,300 @@
+*dialogue default
+{
+	*25 lich_painsml
+	*26 lich_painmed
+	*27 lich_death
+	*28 lich_death
+	*29 lich_death
+	*30 lich_death
+	*40 lich_atksml01
+	*41 lich_atkmed01
+	*60 lic_aiidle
+	*61 lic_aidete
+	*62 lic_aispot
+	*100 ge_lich010
+	{
+		*TEXT "Ni Zhi Dao Gai Zen Me Zuo £¬"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich010
+	}
+	*101 
+	{
+		*TEXT "Wo Jiu Zai Zhe Li Deng Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*102 
+	{
+		*TEXT "Zhe Li You Xie Shi Qing Shuo Bu Tong ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich013
+	}
+	*103 
+	{
+		*TEXT "Gen Wo Lai ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich014
+	}
+	*104 
+	{
+		*TEXT "Ren He Shi Hou Dou Yao He Wo Dai Zai Yi Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich019
+	}
+	*105 
+	{
+		*TEXT "Jiu Ming £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich021
+	}
+	*106 
+	{
+		*TEXT "Jiu Jiu Wo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich022
+	}
+	*107 
+	{
+		*TEXT "Jiang Wo Cong Yong Heng De Shu Fu Zhong Jie Fang Chu Lai ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich027
+	}
+	*108 
+	{
+		*TEXT "Wo Zai Zhe Er ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich046
+	}
+	*109 
+	{
+		*TEXT "Ta Zai Na Er ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich047
+	}
+	*110 
+	{
+		*TEXT "Wo Men Zao Dao Gong Ji Le ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich050
+	}
+	*111 
+	{
+		*TEXT "Kai Huo £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich061
+	}
+	*112 
+	{
+		*TEXT "Xie Xie Ni ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich075
+	}
+	*113 
+	{
+		*TEXT "Shi Jian Bu Duo Le ¡£ Kuai Lai £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich082
+	}
+	*114 
+	{
+		*TEXT "Si Ba £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich094
+	}
+	*115 
+	{
+		*TEXT "Shi Shi Hou Qu Si Le £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich094b
+	}
+	*116 
+	{
+		*TEXT "Wo De Mo Fa Hen Qiang Da ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich120
+	}
+	*117 
+	{
+		*TEXT "Wo Suo Xi Wang De Zhi Shi Wo Zui Zhong De An Xi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich121
+	}
+	*118 
+	{
+		*TEXT "Rang Wo Men Jie Shu Zhe Yi Qie Ba £¬"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich122
+	}
+	*119 
+	{
+		*TEXT "Wo De Ling Hun Zheng Bian De Jiao Zao Bu An ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*120 
+	{
+		*TEXT "Wo De Gu Tou Zhong Jiang"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich123
+	}
+	*121 
+	{
+		*TEXT "Hua Wei Chen Tu £¬ Wo De Ling Hun Jiang"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*122 
+	{
+		*TEXT "Hui Gui Ta Suo Shu De Di Fang ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*123 
+	{
+		*TEXT "Qi Qiu Zhe Yi Tian Zao Ri Dao Lai ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*124 
+	{
+		*TEXT "Ming Jie Zhi Yin Zhe Wo ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich124
+	}
+	*125 
+	{
+		*TEXT "Shi De ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich301
+	}
+	*126 
+	{
+		*TEXT "Bu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich302
+	}
+	*127 
+	{
+		*TEXT "N ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich303
+	}
+	*128 
+	{
+		*TEXT "Bu Ke Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich304
+	}
+	*129 
+	{
+		*TEXT "Wo De Rong Xing ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich305
+	}
+	*130 
+	{
+		*TEXT "Jiu Sheng Ji Ge Le ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich306
+	}
+	*131 
+	{
+		*TEXT "Jiu Sheng Yi Ge Le ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich307
+	}
+	*132 
+	{
+		*TEXT "Wo Xu Yao Zhi Liao Yao Shui £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich309
+	}
+	*133 
+	{
+		*TEXT "Wo Xu Yao Fa Li £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich310
+	}
+	*134 
+	{
+		*TEXT "Hen Hao ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich311
+	}
+	*135 
+	{
+		*TEXT "Dui ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich312
+	}
+	*136 
+	{
+		*TEXT "Hei £¬ Xiao Xin ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich313
+	}
+	*137 
+	{
+		*TEXT "Dang Xin ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich314
+	}
+	*138 
+	{
+		*TEXT "Kan Zhe Dian ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich315
+	}
+	*139 
+	{
+		*TEXT "Ting Xia ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich316
+	}
+	*140 
+	{
+		*TEXT "Wo Men Ying Gai Lian Shou ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich317
+	}
+	*141 
+	{
+		*TEXT "Wo Men Ying Gai Dai Zai Yi Qi ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich318
+	}
+	*142 
+	{
+		*TEXT "You Yi Wei Yong Gan De Zhan Shi £¡"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich319
+	}
+	*143 
+	{
+		*TEXT "Bao Chi Jing Ti ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich323
+	}
+	*144 
+	{
+		*TEXT "Wei Shen Me Shi Wo ¡­¡­"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich324
+	}
+	*145 
+	{
+		*TEXT "Gen Wo Lai £¬ Wo Zhi Dao Ling Yi Tiao Lu ¡£"
+		*SUBTITLEDURATION 3
+		*SOUND ge_lich329
+	}
+	*146 
+	{
+		*TEXT "Wo Shi Wu Yao ¡£ Wo Zhang Kong Zhe"
+		*SOUND ge_lich400
+	}
+	*147 
+	{
+		*TEXT "Ming Jie De Li Liang ¡£"
+		*SOUND 
+	}
+}

@@ -1,0 +1,141 @@
+*dialogue default
+{
+	*25 m4_painsml
+	*26 m4_painmed
+	*27 m4_death
+	*28 m4_death
+	*29 m4_death
+	*30 m4_death
+	*40 m4_atksml01
+	*41 m4_atkmed01
+	*61 anc_aidete
+	*62 anc_aispot
+	*63 anc_aichar
+	*66 anc_aisurp
+	*100 
+	{
+		*TEXT "殿下，他们来了。"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_06
+	}
+	*101 
+	{
+		*TEXT "站住！"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_08
+	}
+	*102 
+	{
+		*TEXT "停下！"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_09
+	}
+	*103 
+	{
+		*TEXT "继续前进。"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_10
+	}
+	*104 
+	{
+		*TEXT "欢迎来到梅克伦"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_11
+	}
+	*105 
+	{
+		*TEXT "任何人都不可以在"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_12
+	}
+	*106 
+	{
+		*TEXT "先在竞技场证明自己之前见我们的首领！"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*108 
+	{
+		*TEXT "陌生人，进入竞技场，证明你的价值吧！"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_14
+	}
+	*110 
+	{
+		*TEXT "你已经证明了你的价值，陌生人。"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_15
+	}
+	*111 
+	{
+		*TEXT "我们的首领会与你交谈。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*112 
+	{
+		*TEXT "你战斗得非常英勇，阿莱克托现在要见你。"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_16
+	}
+	*114 
+	{
+		*TEXT "你需要气体容器。"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_17
+	}
+	*115 
+	{
+		*TEXT "你需要给容器加满气体燃料。"
+		*SUBTITLEDURATION 3
+		*SOUND ls08_18
+	}
+	*117 
+	{
+		*TEXT "一切荣耀归于帝国！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_ancestor119
+	}
+	*118 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor001
+	}
+	*119 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor002
+	}
+	*120 
+	{
+		*TEXT "嗯。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor003
+	}
+	*121 
+	{
+		*TEXT "不客气。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor004
+	}
+	*122 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor005
+	}
+	*123 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor006
+	}
+	*124 
+	{
+		*TEXT "别让他们跑了！"
+		*SUBTITLEDURATION 3
+		*SOUND gen_ancestor007
+	}
+}

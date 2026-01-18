@@ -1,0 +1,296 @@
+*dialogue default
+{
+	*25 f4_painsml
+	*26 f4_painmed
+	*27 f4_death
+	*28 f4_death
+	*29 f4_death
+	*30 f4_death
+	*40 f4_atksml01
+	*41 f4_atkmed01
+	*61 brr_aidete
+	*62 brr_aispot
+	*66 brr_aisurp
+	*100 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling021
+	}
+	*101 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling022
+	}
+	*102 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling014
+	}
+	*103 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling016
+	}
+	*104 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling046
+	}
+	*105 
+	{
+		*TEXT "谢谢你！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling075
+	}
+	*106 
+	{
+		*TEXT "我们应该联手！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling317
+	}
+	*107 
+	{
+		*TEXT "我们应该待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling318
+	}
+	*108 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling319
+	}
+	*110 
+	{
+		*TEXT "为什么是我……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling324
+	}
+	*111 
+	{
+		*TEXT "跟我来！我知道另一条路。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling329
+	}
+	*112 
+	{
+		*TEXT "我会回来的，在这里等我。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling008
+	}
+	*113 
+	{
+		*TEXT "请在这里等候。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling009
+	}
+	*114 
+	{
+		*TEXT "我会在这里等你回来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling011
+	}
+	*115 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling014
+	}
+	*116 
+	{
+		*TEXT "我会跟着你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling015
+	}
+	*117 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling016
+	}
+	*118 
+	{
+		*TEXT "我想我能帮到你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling026
+	}
+	*119 
+	{
+		*TEXT "嘿，你，这边！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling044
+	}
+	*120 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling046
+	}
+	*121 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling050
+	}
+	*122 
+	{
+		*TEXT "他们在攻击我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling051
+	}
+	*124 
+	{
+		*TEXT "是埋伏！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling056
+	}
+	*125 
+	{
+		*TEXT "开火！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling061
+	}
+	*126 
+	{
+		*TEXT "冲啊！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling062
+	}
+	*127 
+	{
+		*TEXT "干得漂亮！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling071
+	}
+	*128 
+	{
+		*TEXT "干得好！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling072
+	}
+	*129 
+	{
+		*TEXT "太好了，我欠你个人情"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling073
+	}
+	*130 
+	{
+		*TEXT "谢谢你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling075
+	}
+	*131 
+	{
+		*TEXT "我们必须抓紧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling081
+	}
+	*146 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling301
+	}
+	*147 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling302
+	}
+	*148 
+	{
+		*TEXT "嗯……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling303
+	}
+	*149 
+	{
+		*TEXT "不客气"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling304
+	}
+	*150 
+	{
+		*TEXT "我的荣幸"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling305
+	}
+	*151 
+	{
+		*TEXT "就剩几个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling306
+	}
+	*152 
+	{
+		*TEXT "就剩一个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling307
+	}
+	*153 
+	{
+		*TEXT "我需要更多箭！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling308
+	}
+	*154 
+	{
+		*TEXT "我需要治疗药水！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling309
+	}
+	*155 
+	{
+		*TEXT "我需要法力！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling310
+	}
+	*156 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling311
+	}
+	*157 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling312
+	}
+	*158 
+	{
+		*TEXT "小心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling313
+	}
+	*159 
+	{
+		*TEXT "当心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling314
+	}
+	*160 
+	{
+		*TEXT "看着点！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling315
+	}
+	*161 
+	{
+		*TEXT "住手！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling316
+	}
+	*162 
+	{
+		*TEXT "我是半身人，我的技能可能有用。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_halfling400
+	}
+}

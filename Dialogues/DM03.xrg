@@ -1,0 +1,21 @@
+*dialogue Default
+{
+	*1 
+	{
+		*TEXT "你捡起了阿克穆尔钥匙"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+	*2 
+	{
+		*TEXT "你需要一把钥匙来打开这扇门"
+		*SUBTITLEDURATION 3
+		*PLACEMENT 1
+		*COLOR 0xa0d0ff
+		*SOUND 
+		*FLAGS 2
+	}
+}

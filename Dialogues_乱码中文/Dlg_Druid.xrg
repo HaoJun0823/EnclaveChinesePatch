@@ -1,0 +1,369 @@
+*dialogue default
+{
+	*25 f6_painsml
+	*26 f6_painmed
+	*27 f6_death
+	*28 f6_death
+	*29 f6_death
+	*30 f6_death
+	*40 f6_atksml01
+	*41 f6_atkmed01
+	*61 dru_aidete
+	*62 dru_aispot
+	*63 dru_aichar
+	*66 dru_aisurp
+	*100 
+	{
+		*TEXT "这些肮脏的生物正在污染土壤，"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid128
+	}
+	*102 
+	{
+		*TEXT "必须消灭它们！"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*103 
+	{
+		*TEXT "你看起来还不坏嘛！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid129
+	}
+	*104 
+	{
+		*TEXT "你最后一次玷污我们的土地了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid130
+	}
+	*107 
+	{
+		*TEXT "胆敢侵犯我们土地者，死！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid131
+	}
+	*119 
+	{
+		*TEXT "我会回来的，在这里等我。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid008
+	}
+	*121 
+	{
+		*TEXT "在这里等着。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid009
+	}
+	*122 
+	{
+		*TEXT "我会在这里等你回来。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid011
+	}
+	*124 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid014
+	}
+	*125 
+	{
+		*TEXT "我会跟着你！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid015
+	}
+	*126 
+	{
+		*TEXT "跟我来！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid016
+	}
+	*127 
+	{
+		*TEXT "救命！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid021
+	}
+	*128 
+	{
+		*TEXT "救救我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid022
+	}
+	*129 
+	{
+		*TEXT "我想我能帮到你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid026
+	}
+	*130 
+	{
+		*TEXT "嘿，你，这边！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid044
+	}
+	*131 
+	{
+		*TEXT "我在这儿！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid046
+	}
+	*132 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid050
+	}
+	*133 
+	{
+		*TEXT "他们在攻击我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid051
+	}
+	*134 
+	{
+		*TEXT "有陷阱！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid056
+	}
+	*135 
+	{
+		*TEXT "是埋伏！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid056b
+	}
+	*136 
+	{
+		*TEXT "开火！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid061
+	}
+	*137 
+	{
+		*TEXT "冲啊！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid062
+	}
+	*138 
+	{
+		*TEXT "干得漂亮。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid071
+	}
+	*139 
+	{
+		*TEXT "干得好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid072
+	}
+	*140 
+	{
+		*TEXT "太好了，我欠你个人情。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid073
+	}
+	*142 
+	{
+		*TEXT "谢谢你。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid075
+	}
+	*143 
+	{
+		*TEXT "我们必须抓紧！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid081
+	}
+	*144 
+	{
+		*TEXT "愿长老们庇护我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid119
+	}
+	*146 
+	{
+		*TEXT "长老们，我呼唤你们的力量！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid120
+	}
+	*150 
+	{
+		*TEXT "你现在属于我了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid121
+	}
+	*151 
+	{
+		*TEXT "他们犯下了一个巨大的错误，当他们"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid122
+	}
+	*153 
+	{
+		*TEXT "毁坏我们的森林时。"
+		*SUBTITLEDURATION 3
+		*SOUND 
+	}
+	*154 
+	{
+		*TEXT "大地之母，拥抱我，我们将再次合为一体。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid126
+	}
+	*156 
+	{
+		*TEXT "现在，自然之力将惩罚他们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid123
+	}
+	*159 
+	{
+		*TEXT "长老们，庇护我们！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid124
+	}
+	*160 
+	{
+		*TEXT "长老们，庇护我！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid125
+	}
+	*162 
+	{
+		*TEXT "我们必须保护我们土地中的魔法！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid127
+	}
+	*165 
+	{
+		*TEXT "是的。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid301
+	}
+	*166 
+	{
+		*TEXT "不。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid302
+	}
+	*167 
+	{
+		*TEXT "嗯……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid303
+	}
+	*168 
+	{
+		*TEXT "不客气。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid304
+	}
+	*169 
+	{
+		*TEXT "我的荣幸。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid305
+	}
+	*170 
+	{
+		*TEXT "就剩几个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid306
+	}
+	*171 
+	{
+		*TEXT "就剩一个了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid307
+	}
+	*172 
+	{
+		*TEXT "我需要更多箭！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid308
+	}
+	*173 
+	{
+		*TEXT "我需要治疗药水！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid309
+	}
+	*174 
+	{
+		*TEXT "我需要法力。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid310
+	}
+	*175 
+	{
+		*TEXT "很好。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid311
+	}
+	*176 
+	{
+		*TEXT "对。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid312
+	}
+	*177 
+	{
+		*TEXT "嘿，小心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid313
+	}
+	*178 
+	{
+		*TEXT "当心！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid314
+	}
+	*179 
+	{
+		*TEXT "看着点！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid315
+	}
+	*180 
+	{
+		*TEXT "停下！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid316
+	}
+	*181 
+	{
+		*TEXT "我们应该联手。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid317
+	}
+	*182 
+	{
+		*TEXT "我们应该待在一起。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid318
+	}
+	*183 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid319
+	}
+	*184 
+	{
+		*TEXT "感谢长老你来了！"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid320
+	}
+	*186 
+	{
+		*TEXT "我感觉到有什么东西……"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid323
+	}
+	*187 
+	{
+		*TEXT "跟我来！我知道另一条路。"
+		*SUBTITLEDURATION 3
+		*SOUND ge_druid329
+	}
+}

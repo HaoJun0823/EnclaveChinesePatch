@@ -1,0 +1,336 @@
+*dialogue default
+{
+	*25 m3_painsml
+	*26 m3_painmed
+	*27 m3_death
+	*28 m3_death
+	*29 m3_death
+	*30 m3_death
+	*40 m3_atksml01
+	*41 m3_atkmed01
+	*61 eng_aidete
+	*62 eng_aispot
+	*63 eng_aichar
+	*66 eng_aisurp
+	*100 
+	{
+		*TEXT "救命！"
+		*SOUND ge_engineer021
+	}
+	*101 
+	{
+		*TEXT "救救我！"
+		*SOUND ge_engineer022
+	}
+	*102 
+	{
+		*TEXT "跟我来！"
+		*SOUND ge_engineer014
+	}
+	*103 
+	{
+		*TEXT "跟我来！"
+		*SOUND ge_engineer016
+	}
+	*104 
+	{
+		*TEXT "我在这儿！"
+		*SOUND ge_engineer046
+	}
+	*105 
+	{
+		*TEXT "谢谢你！"
+		*SOUND ge_engineer075
+	}
+	*106 
+	{
+		*TEXT "我们应该联手！"
+		*SOUND ge_engineer317
+	}
+	*107 
+	{
+		*TEXT "我们应该待在一起。"
+		*SOUND ge_engineer318
+	}
+	*108 
+	{
+		*TEXT "又一位勇敢的战士！"
+		*SOUND ge_engineer319
+	}
+	*109 
+	{
+		*TEXT "保持警惕。"
+		*SOUND ge_engineer323
+	}
+	*110 
+	{
+		*TEXT "为什么是我……"
+		*SOUND ge_engineer324
+	}
+	*111 
+	{
+		*TEXT "跟我来！我知道另一条路。"
+		*SOUND ge_engineer329
+	}
+	*112 
+	{
+		*TEXT "我会回来的，在这里等我。"
+		*SOUND ge_engineer008
+	}
+	*113 
+	{
+		*TEXT "请在这里等候。"
+		*SOUND ge_engineer009
+	}
+	*114 
+	{
+		*TEXT "我会在这里等你回来。"
+		*SOUND ge_engineer011
+	}
+	*115 
+	{
+		*TEXT "跟我来！"
+		*SOUND ge_engineer014
+	}
+	*116 
+	{
+		*TEXT "我会跟着你。"
+		*SOUND ge_engineer015
+	}
+	*117 
+	{
+		*TEXT "跟我来！"
+		*SOUND ge_engineer016
+	}
+	*118 
+	{
+		*TEXT "我想我能帮到你。"
+		*SOUND ge_engineer026
+	}
+	*119 
+	{
+		*TEXT "嘿，你，这边！"
+		*SOUND ge_engineer044
+	}
+	*120 
+	{
+		*TEXT "我在这儿！"
+		*SOUND ge_engineer046
+	}
+	*121 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SOUND ge_engineer050
+	}
+	*122 
+	{
+		*TEXT "他们在攻击我们！"
+		*SOUND ge_engineer051
+	}
+	*123 
+	{
+		*TEXT "是埋伏！"
+		*SOUND ge_engineer056b
+	}
+	*124 
+	{
+		*TEXT "我们遭到攻击了！"
+		*SOUND ge_engineer56
+	}
+	*125 
+	{
+		*TEXT "开火！"
+		*SOUND ge_engineer061
+	}
+	*126 
+	{
+		*TEXT "冲啊！"
+		*SOUND ge_engineer062
+	}
+	*127 
+	{
+		*TEXT "干得漂亮！"
+		*SOUND ge_engineer071
+	}
+	*128 
+	{
+		*TEXT "干得好！"
+		*SOUND ge_engineer072
+	}
+	*129 
+	{
+		*TEXT "太好了，我欠你点什么。"
+		*SOUND ge_engineer073b
+	}
+	*130 
+	{
+		*TEXT "谢谢你。"
+		*SOUND ge_engineer075
+	}
+	*131 
+	{
+		*TEXT "我们必须抓紧！"
+		*SOUND ge_engineer081
+	}
+	*132 
+	{
+		*TEXT "你是想要我建造还是"
+		*SOUND ge_engineer119
+	}
+	*133 
+	{
+		*TEXT "拆除什么东西？"
+		*SOUND 
+	}
+	*134 
+	{
+		*TEXT "我喜欢拆东西！"
+		*SOUND ge_engineer120
+	}
+	*135 
+	{
+		*TEXT "我可以帮你把它炸掉！"
+		*SOUND ge_engineer121
+	}
+	*136 
+	{
+		*TEXT "我只需要一桶上好的火药！"
+		*SOUND ge_engineer122
+	}
+	*137 
+	{
+		*TEXT "我受过最好的训练！我能"
+		*SOUND ge_engineer123
+	}
+	*138 
+	{
+		*TEXT "重建任何东西！"
+		*SOUND 
+	}
+	*139 
+	{
+		*TEXT "嗯……几乎任何东西。"
+		*SOUND 
+	}
+	*140 
+	{
+		*TEXT "是的，轰！"
+		*SOUND ge_engineer124
+	}
+	*141 
+	{
+		*TEXT "没错！"
+		*SOUND ge_engineer125
+	}
+	*142 
+	{
+		*TEXT "让一切都爆炸吧……砰！"
+		*SOUND ge_engineer126
+	}
+	*143 
+	{
+		*TEXT "你听到了吗？"
+		*SOUND ge_engineer127
+	}
+	*144 
+	{
+		*TEXT "多么震撼的爆炸！"
+		*SOUND 
+	}
+	*145 
+	{
+		*TEXT "这应该能让气氛活跃起来！"
+		*SOUND ge_engineer128
+	}
+	*146 
+	{
+		*TEXT "是的。"
+		*SOUND ge_engineer301
+	}
+	*147 
+	{
+		*TEXT "不。"
+		*SOUND ge_engineer302
+	}
+	*148 
+	{
+		*TEXT "嗯……"
+		*SOUND ge_engineer303
+	}
+	*149 
+	{
+		*TEXT "不客气"
+		*SOUND ge_engineer304
+	}
+	*150 
+	{
+		*TEXT "我的荣幸"
+		*SOUND ge_engineer305
+	}
+	*151 
+	{
+		*TEXT "就剩几个了！"
+		*SOUND ge_engineer306
+	}
+	*152 
+	{
+		*TEXT "就剩一个了！"
+		*SOUND ge_engineer307
+	}
+	*153 
+	{
+		*TEXT "我需要更多箭！"
+		*SOUND ge_engineer308
+	}
+	*154 
+	{
+		*TEXT "我需要治疗药水！"
+		*SOUND ge_engineer309
+	}
+	*155 
+	{
+		*TEXT "我需要法力！"
+		*SOUND ge_engineer310
+	}
+	*156 
+	{
+		*TEXT "很好。"
+		*SOUND ge_engineer311
+	}
+	*157 
+	{
+		*TEXT "对。"
+		*SOUND ge_engineer312
+	}
+	*158 
+	{
+		*TEXT "小心！"
+		*SOUND ge_engineer313
+	}
+	*159 
+	{
+		*TEXT "当心！"
+		*SOUND ge_engineer314
+	}
+	*160 
+	{
+		*TEXT "停下！"
+		*SOUND ge_engineer315
+	}
+	*161 
+	{
+		*TEXT "住手！"
+		*SOUND ge_engineer316
+	}
+	*162 
+	{
+		*TEXT "我是工程师，你或许"
+		*SUBTITLEDURATION 3
+		*SOUND ge_engineer400
+	}
+	*163 
+	{
+		*TEXT "能用得上我的技能！"
+		*SOUND 
+	}
+}
