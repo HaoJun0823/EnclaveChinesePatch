@@ -1,0 +1,303 @@
+{
+ "total": {
+  "files": 48,
+  "texts": 1158,
+  "conv": 1148,
+  "skip": 10
+ },
+ "entries": 1148,
+ "files": {
+  "Checkpoint.xrg": {
+   "lines": 22,
+   "texts": 3,
+   "conv": 0,
+   "skip": 3
+  },
+  "DM01.xrg": {
+   "lines": 49,
+   "texts": 5,
+   "conv": 5,
+   "skip": 0
+  },
+  "DM02.xrg": {
+   "lines": 22,
+   "texts": 2,
+   "conv": 2,
+   "skip": 0
+  },
+  "DM03.xrg": {
+   "lines": 22,
+   "texts": 2,
+   "conv": 2,
+   "skip": 0
+  },
+  "DM04.xrg": {
+   "lines": 49,
+   "texts": 5,
+   "conv": 5,
+   "skip": 0
+  },
+  "DM06.xrg": {
+   "lines": 31,
+   "texts": 3,
+   "conv": 3,
+   "skip": 0
+  },
+  "DM08.xrg": {
+   "lines": 49,
+   "texts": 5,
+   "conv": 5,
+   "skip": 0
+  },
+  "DM09.xrg": {
+   "lines": 49,
+   "texts": 5,
+   "conv": 5,
+   "skip": 0
+  },
+  "DM10.xrg": {
+   "lines": 76,
+   "texts": 8,
+   "conv": 8,
+   "skip": 0
+  },
+  "DM11.xrg": {
+   "lines": 58,
+   "texts": 6,
+   "conv": 6,
+   "skip": 0
+  },
+  "DM12.xrg": {
+   "lines": 31,
+   "texts": 3,
+   "conv": 3,
+   "skip": 0
+  },
+  "Default.xrg": {
+   "lines": 38,
+   "texts": 0,
+   "conv": 0,
+   "skip": 0
+  },
+  "Dlg_Alecto.xrg": {
+   "lines": 292,
+   "texts": 45,
+   "conv": 45,
+   "skip": 0
+  },
+  "Dlg_Ancestor.xrg": {
+   "lines": 142,
+   "texts": 21,
+   "conv": 21,
+   "skip": 0
+  },
+  "Dlg_Assassin.xrg": {
+   "lines": 411,
+   "texts": 66,
+   "conv": 66,
+   "skip": 0
+  },
+  "Dlg_Assembly.xrg": {
+   "lines": 55,
+   "texts": 6,
+   "conv": 5,
+   "skip": 1
+  },
+  "Dlg_Aylindel.xrg": {
+   "lines": 304,
+   "texts": 49,
+   "conv": 48,
+   "skip": 1
+  },
+  "Dlg_Berserker.xrg": {
+   "lines": 41,
+   "texts": 2,
+   "conv": 2,
+   "skip": 0
+  },
+  "Dlg_Boarrider.xrg": {
+   "lines": 297,
+   "texts": 47,
+   "conv": 47,
+   "skip": 0
+  },
+  "Dlg_Bombardier.xrg": {
+   "lines": 72,
+   "texts": 7,
+   "conv": 7,
+   "skip": 0
+  },
+  "Dlg_Dragon.xrg": {
+   "lines": 57,
+   "texts": 6,
+   "conv": 6,
+   "skip": 0
+  },
+  "Dlg_Druid.xrg": {
+   "lines": 370,
+   "texts": 59,
+   "conv": 59,
+   "skip": 0
+  },
+  "Dlg_Engineer.xrg": {
+   "lines": 337,
+   "texts": 64,
+   "conv": 64,
+   "skip": 0
+  },
+  "Dlg_Huntress.xrg": {
+   "lines": 371,
+   "texts": 60,
+   "conv": 60,
+   "skip": 0
+  },
+  "Dlg_Jasindra.xrg": {
+   "lines": 184,
+   "texts": 33,
+   "conv": 29,
+   "skip": 4
+  },
+  "Dlg_Knight.xrg": {
+   "lines": 334,
+   "texts": 53,
+   "conv": 53,
+   "skip": 0
+  },
+  "Dlg_Lich.xrg": {
+   "lines": 301,
+   "texts": 48,
+   "conv": 48,
+   "skip": 0
+  },
+  "Dlg_Lorus.xrg": {
+   "lines": 169,
+   "texts": 26,
+   "conv": 26,
+   "skip": 0
+  },
+  "Dlg_Marcus.xrg": {
+   "lines": 556,
+   "texts": 90,
+   "conv": 90,
+   "skip": 0
+  },
+  "Dlg_Mordessa.xrg": {
+   "lines": 658,
+   "texts": 107,
+   "conv": 107,
+   "skip": 0
+  },
+  "Dlg_Paladin.xrg": {
+   "lines": 109,
+   "texts": 16,
+   "conv": 16,
+   "skip": 0
+  },
+  "Dlg_Sorceress.xrg": {
+   "lines": 373,
+   "texts": 60,
+   "conv": 60,
+   "skip": 0
+  },
+  "Dlg_Vatar.xrg": {
+   "lines": 157,
+   "texts": 18,
+   "conv": 18,
+   "skip": 0
+  },
+  "Dlg_Wizard.xrg": {
+   "lines": 443,
+   "texts": 71,
+   "conv": 71,
+   "skip": 0
+  },
+  "Dlg_Wolfrider.xrg": {
+   "lines": 268,
+   "texts": 34,
+   "conv": 34,
+   "skip": 0
+  },
+  "Dlg_Zale.xrg": {
+   "lines": 504,
+   "texts": 82,
+   "conv": 81,
+   "skip": 1
+  },
+  "Dlg_Zurana.xrg": {
+   "lines": 39,
+   "texts": 0,
+   "conv": 0,
+   "skip": 0
+  },
+  "LM01.xrg": {
+   "lines": 130,
+   "texts": 14,
+   "conv": 14,
+   "skip": 0
+  },
+  "LM02.xrg": {
+   "lines": 38,
+   "texts": 4,
+   "conv": 4,
+   "skip": 0
+  },
+  "LM04.xrg": {
+   "lines": 58,
+   "texts": 6,
+   "conv": 6,
+   "skip": 0
+  },
+  "LM06.xrg": {
+   "lines": 13,
+   "texts": 1,
+   "conv": 1,
+   "skip": 0
+  },
+  "LM07.xrg": {
+   "lines": 40,
+   "texts": 4,
+   "conv": 4,
+   "skip": 0
+  },
+  "LM08.xrg": {
+   "lines": 13,
+   "texts": 1,
+   "conv": 1,
+   "skip": 0
+  },
+  "LM09.xrg": {
+   "lines": 31,
+   "texts": 3,
+   "conv": 3,
+   "skip": 0
+  },
+  "LM10.xrg": {
+   "lines": 31,
+   "texts": 3,
+   "conv": 3,
+   "skip": 0
+  },
+  "LM12.xrg": {
+   "lines": 22,
+   "texts": 2,
+   "conv": 2,
+   "skip": 0
+  },
+  "LM13.xrg": {
+   "lines": 22,
+   "texts": 2,
+   "conv": 2,
+   "skip": 0
+  },
+  "Teleporter.xrg": {
+   "lines": 13,
+   "texts": 1,
+   "conv": 1,
+   "skip": 0
+  }
+ },
+ "inserted_after_line": 1344,
+ "table_total_entries": 1148,
+ "table_path": "G:/Projects/Enclave/StringTable_Chs_Revised.txt",
+ "out_dir": "G:/Projects/Enclave/Dialogues_§L宏_UTF-16"
+}
