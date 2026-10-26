@@ -1,3 +1,13 @@
+> ⚠️ **使用前必读**
+>
+> 本补丁为个人非官方作品，**未获游戏官方授权**；安装会修改或注入游戏文件，
+> 可能与该游戏的用户协议（EULA）冲突。请自行判断是否可用，风险自担，
+> **安装前请备份存档与原始文件**。
+>
+> **禁止商业使用**；二次修改后分发，须公开源代码与改动记录，并保留原作者署名。
+> 作者不对使用后果承担责任，也不拥有本游戏及其原始素材的版权。
+> 完整条款见 [LICENSE](LICENSE)。
+
 《Enclave 光暗包围战》汉化补丁 BY Randerion(HaoJun0823) 主页：https://www.haojun0823.xyz/ 仓库：https://github.com/HaoJun0823/EnclaveChinesePatch
 正版购买链接：https://store.steampowered.com/app/253980
 
